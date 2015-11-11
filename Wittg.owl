@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/svimanet/ontologies/2015/10/untitled-ontology-4"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     ontologyIRI="http://www.semanticweb.org/svimanet/ontologies/2015/10/untitled-ontology-4">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal datatypeIRI="&rdf;PlainLiteral">An ontology describing Wittgensteins philosophy on ethics.</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Absolute_value"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ethics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Facts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Language"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nonsense"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Philosophy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Relative_value"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Similies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Supernatural"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isNotComparable"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Absolute_value"/>
+        <Class IRI="#Ethics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Facts"/>
+        <Class IRI="#Language"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Facts"/>
+        <Class IRI="#Similies"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nonsense"/>
+        <Class IRI="#Similies"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Relative_value"/>
+        <Class IRI="#Language"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Similies"/>
+        <Class IRI="#Ethics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Similies"/>
+        <Class IRI="#Language"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Supernatural"/>
+        <Class IRI="#Philosophy"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Absolute_value</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Absolute value is absolute value.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Ethics</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Ethics can&apos;t be put in language.
+It&apos;s about absolute value and is considered supernatural.
+We can&apos;t explain ethics or religion without similities, but if the similie checks out it becomes fact which is not ethics. If the similie is not comparable to anything it is nonsense.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Facts</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Facts has no ethics.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Language</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Language is what the text is about, but themed for ethics.
+Ethics cant be explained in language, it would then become facts, which cant be ethics.
+One of the key objectives in the text is trying to explain difference between ethics and language, but it can&apos;t be done.
+
+
+Facts, relative value and similies all branches from Language.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Nonsense</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">If you don&apos;t manage to explain something without the similie it loses all facts, it becomes nonsense.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Philosophy</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Ethics is philosophy.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Relative_value</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Relative value is found in language, its how we can express something in text and speech, but it can&apos;t language can&apos;t express absolute value.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Similies</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Describes similies used while talking about language and/or ethics.
+All similies require somethging to be comapred to. 
+If it is comparable it becomes a fact, if not, it becomes mere nonsense.
+
+Nonsense and facts both branch from similies.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Supernatural</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Philosophy and Ethics is supernatural.
+It can not be expressed in text or speech.</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
