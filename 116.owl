@@ -22,6 +22,66 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasBase -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasBase">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasIngredient"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasIngredient -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasIngredient">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasTopping -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasTopping">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasIngredient"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isBaseOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isBaseOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isIngredientOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isIngredientOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isIngredientOf">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isToppingOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isToppingOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isIngredientOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
