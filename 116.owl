@@ -32,19 +32,50 @@
 
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf"/>
+    </owl:ObjectProperty>
     
 
 
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isAuthorOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isAuthorOf">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSubjectsOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSubjectsOf">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
+    </owl:ObjectProperty>
     
 
 
@@ -64,28 +95,21 @@
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author">
         <owl:equivalentClass>
             <owl:Class>
-                <owl:intersectionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
-                    <owl:Class>
-                        <owl:oneOf rdf:parseType="Collection">
-                            <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Ludwig_Wittgenstein"/>
-                            <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Deirdre_Christine_Page_Smith"/>
-                            <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Janyne_Sattler"/>
-                            <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Paul_Formosa"/>
-                        </owl:oneOf>
-                    </owl:Class>
-                </owl:intersectionOf>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Ludwig_Wittgenstein"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Deirdre_Christine_Page_Smith"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Janyne_Sattler"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Paul_Formosa"/>
+                </owl:oneOf>
             </owl:Class>
         </owl:equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Deidre_Christine_Page_Smith -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Deidre_Christine_Page_Smith">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isAuthorOf"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
     </owl:Class>
     
 
@@ -130,14 +154,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Janye_Sattler -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Janye_Sattler">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name"/>
-    </owl:Class>
-    
-
-
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Knowledge -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Knowledge">
@@ -150,22 +166,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Language">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Paul_Formosa -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Paul_Formosa">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name"/>
     </owl:Class>
     
 
@@ -190,14 +190,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Primary">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Proof -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Proof">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Facts"/>
     </owl:Class>
     
 
@@ -237,11 +229,25 @@
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
     </owl:Class>
@@ -251,7 +257,13 @@
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSubjectsOf"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
     </owl:Class>
     
 
@@ -259,17 +271,11 @@
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
@@ -278,20 +284,13 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#consept"/>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Ludwig:Wittgenstein -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Ludwig:Wittgenstein">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Name"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
     </owl:Class>
     
 
