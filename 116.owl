@@ -38,15 +38,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource">
-        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
-        <owl:inverseOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf"/>
-    </owl:ObjectProperty>
-    
-
-
     <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
@@ -58,14 +49,6 @@
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isAuthorOf">
         <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
         <owl:inverseOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf">
-        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
     </owl:ObjectProperty>
     
 
@@ -238,13 +221,6 @@
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSourceOf"/>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text"/>
-                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
                 <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
@@ -261,33 +237,6 @@
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#isSubjectsOf"/>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
-                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Text">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasAuthor"/>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSource"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Source"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#hasSubjects"/>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Subjects"/>
                 <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
             </owl:Restriction>
         </rdfs:subClassOf>
