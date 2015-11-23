@@ -1,19 +1,19 @@
 
 
-wittgenstein = open("wittgenstein.txt").read().split("\n")
+wittgenstein = open("txt/wittgenstein.txt").read().split("\n")
 
 
 
 # Prepare soites
 import re
-sorites = open("sorites.txt").read().strip()
+sorites = open("txt/sorites.txt").read().strip()
 sorites = re.split("[0-9]\. ",sorites)
 
 
 
 
 # rediscover
-rediscover = open("rediscover.txt").read().split("\n")
+rediscover = open("txt/rediscover.txt").read().split("\n")
 
 
 def get_topics(f):
@@ -33,9 +33,7 @@ def get_topics(f):
     num_top_words = 60
 
     clf = decomposition.NMF(n_components=num_topics, random_state=1)
-
-
-    doctopic = clf.fit_transform(dtm)
+    clf.fit_transform(dtm)
 
     topic_words = []
 
@@ -43,31 +41,6 @@ def get_topics(f):
         word_idx = np.argsort(topic)[::-1][0:num_top_words]
         topic_words.append([vocab[i] for i in word_idx])
 
-
-
-    doctopic = doctopic / np.sum(doctopic, axis=1, keepdims=True)
-
-
-    novel_names = []
-
-    for n,text in enumerate(f):
-        novel_names.append(n)
-
-
-    novel_names = np.asarray(novel_names)
-
-    doctopic_orig = doctopic.copy()
-
-# use method described in preprocessing section
-    num_groups = len(set(novel_names))
-
-    doctopic_grouped = np.zeros((num_groups, num_topics))
-
-    for i, name in enumerate(sorted(set(novel_names))):
-        doctopic_grouped[i, :] = np.mean(doctopic[novel_names == name, :], axis=0)
-
-
-    doctopic = doctopic_grouped
     return topic_words
 
 
