@@ -1,3 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "http://example.org/index.rdf",
+  "@type": "INFO116",
+  "author": "Ludwig_Wittgenstein",
+  "title": "Lecture_of_Ethics",
+  "Publish_Date": "2007"
+}
+</script>
+
+
 <span vocab="http://velox.pw/~fox/index.rdf" typeof="Source"><!DOCTYPE html
 PUBLIC "-//W3C/DTD XHTML 1.0 STRICT//EN" "http:://www.w3.org/TR/xhtml1-strict.dtd">
 <html>

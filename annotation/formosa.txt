@@ -1,3 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "http://example.org/index.rdf",
+  "@type": "INFO116",
+  "author": "Paul_Formoso",
+  "title": "Saying the Unsayable: Wittgenstein's Early Ethical Thought",
+  "Publish_Date": "19_December_2007"
+}
+</script>
+
 <span vocab="http://example.com/index.rdf" typeof="Source"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML LANG="en">
 <HEAD>
