@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1447953413311" name="duplicate:http://test.org/Wittg.owl" uri="Python/Wittg2.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1447953413311" name="duplicate:http://test.org/Wittg.owl" uri="Python/so.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1447953413311" name="http://test.org/test_annotations.owl" uri="Python/Wittg.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1447953413311" name="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9" uri="116.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1448294869962" name="http://test.org/Wittg.owl" uri="Python/so.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1448294869962" name="duplicate:http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9" uri="v2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1448294869962" name="duplicate:http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9" uri="116.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1448294869962" name="http://www.w3.org/2002/07/owl" uri="rdf/116.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1448294869962" name="shadowed:http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9" uri="Python/Wittg2.owl"/>
     </group>
 </catalog>

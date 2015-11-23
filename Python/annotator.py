@@ -11,7 +11,8 @@ ont = Ontology()
 ont.load(source="./Wittg2.owl")
 
 
-words = {""}
+mentions = {}
+global mentions
 
 def get_name(url):
   return url.split("#")[-1]
@@ -84,8 +85,12 @@ def annotate_text(string, ont, check=None):
 ont = get_ontology()
 
 
-def process_text(text):
+def process_text(text, name=None):
     ready_text = [i.split(" ") for i in text.split("\n")]
+
+    global mentions
+    mentions[name] = []
+
     for n,i in enumerate(ready_text):
         print(i)
         for nn,w in enumerate(i):
@@ -99,6 +104,7 @@ def process_text(text):
                         ready_text[n][nn-1] = None
                         ready_text[n][nn+1] = None
                         ready_text[n][nn] = word
+                        mentions[name].append(w_check)
 
                 # Checked forwards
                 if nn+1 <= len(i)-1 and not word:
@@ -107,6 +113,7 @@ def process_text(text):
                     if word:
                         ready_text[n][nn+1] = None
                         ready_text[n][nn] = word
+                        mentions[name].append(w_check)
 
                 # Check only single word
                 if not word:
@@ -116,6 +123,7 @@ def process_text(text):
                         word = annotate_text(w,ont, check=w_check)
                         if word:
                             ready_text[n][nn] = word
+                            mentions[name].append(w_check)
     return "\n".join(" ".join([ii for ii in i if ii]) for i in ready_text)
 
 def main():
@@ -125,7 +133,7 @@ def main():
     files = s[0][2]
     for i in files:
         f = open("{0}/{1}".format(dir, i)).read()
-        r = process_text(f)
+        r = process_text(f, name=i)
         f = open("done/{0}".format(i), "w")
         f.write("<span vocab=\"http://velox.pw/~fox/index.rdf\">")
         f.write(r)
@@ -136,6 +144,28 @@ def test():
     r = process_text("<test>Ethics")
     print(r)
 
-test()
-# main()
+main()
+
+
+def format_owl(string,name):
+    m = {"deirdre.html": ("Smith_text", "Secondary"),
+         "formosa.html": ("Formosa_text", "Secondary"),
+         "wittgenstein.html": ("Wittgenstein_text", "Primary"),
+         "janyne.html": ("Sattler_text", "Secondary")}
+    s = """
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{0}">
+        <rdf:type rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{1}"/>
+        <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{2}"/>
+    </owl:NamedIndividual>
+    """
+    return s.format(m[name][0], m[name][1], string)
+
+with open("additions", "w") as f:
+    for k,v in mentions.items():
+        for i in v:
+            f.write(format_owl(i,k))
+
+
+
+
 
