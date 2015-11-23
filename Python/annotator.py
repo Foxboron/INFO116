@@ -11,40 +11,7 @@ ont = Ontology()
 ont.load(source="./Wittg2.owl")
 
 
-
-
-test_text = """
-
-Logic
-
-value Value
-Value value
-
-Language
-
-Right or wrong
-
-Absolute Judgement
-
-Judgement
-
-
-Judgement Bullshit
-Bullshit Judgement
-
-
-value
-Value
-value Value
-
-Value value
-"""
-
 words = {""}
-print(test_text)
-print()
-ready_text = [i.split(" ") for i in test_text.split("\n")]
-print(ready_text)
 
 def get_name(url):
   return url.split("#")[-1]
@@ -100,12 +67,12 @@ def get_ontology():
 def format_string(*string):
     string = [i for i in string if i]
     word = " ".join(string)
+    string = [i.strip("\"\'`\(\)") for i in string if i]
     check = string[0].capitalize()+"_"+"_".join(string[1:]).lower()
     return word,check
 
 
 def annotate_text(string, ont, check=None):
-    print(string)
     s = "<span property=\"{0}\">{1}</span>"
     for k,v in ont.items():
         if check:
@@ -117,39 +84,58 @@ def annotate_text(string, ont, check=None):
 ont = get_ontology()
 
 
-for n,i in enumerate(ready_text):
-    for nn,w in enumerate(i):
-        word = None
+def process_text(text):
+    ready_text = [i.split(" ") for i in text.split("\n")]
+    for n,i in enumerate(ready_text):
+        print(i)
+        for nn,w in enumerate(i):
+            word = None
+            if w:
+                # Check forward and backwards
+                if nn+1 <= len(i)-1 and nn-1 >= 0:
+                    w, w_check = format_string(ready_text[n][nn-1],ready_text[n][nn], ready_text[n][nn+1])
+                    word = annotate_text(w,ont,check=w_check)
+                    if word:
+                        ready_text[n][nn-1] = None
+                        ready_text[n][nn+1] = None
+                        ready_text[n][nn] = word
 
-        # Check forward and backwards
-        if nn+1 <= len(i)-1 and nn-1 >= 0:
-            w, w_check = format_string(ready_text[n][nn-1],ready_text[n][nn], ready_text[n][nn+1])
-            word = annotate_text(w,ont,check=w_check)
-            if word:
-                ready_text[n][nn-1] = None
-                ready_text[n][nn+1] = None
-                ready_text[n][nn] = word
+                # Checked forwards
+                if nn+1 <= len(i)-1 and not word:
+                    w, w_check = format_string(ready_text[n][nn], ready_text[n][nn+1])
+                    word = annotate_text(w,ont,check=w_check)
+                    if word:
+                        ready_text[n][nn+1] = None
+                        ready_text[n][nn] = word
 
-        # Checked forwards
-        if nn+1 <= len(i)-1 and not word:
-            w, w_check = format_string(ready_text[n][nn], ready_text[n][nn+1])
-            word = annotate_text(w,ont,check=w_check)
-            if word:
-                ready_text[n][nn+1] = None
-                ready_text[n][nn] = word
+                # Check only single word
+                if not word:
+                    if ready_text[n][nn]:
+                        w = ready_text[n][nn]
+                        w_check = ready_text[n][nn].strip(".,\'\`\(\)\"").capitalize()
+                        word = annotate_text(w,ont, check=w_check)
+                        if word:
+                            ready_text[n][nn] = word
+    return "\n".join(" ".join([ii for ii in i if ii]) for i in ready_text)
 
-        # Check only single word
-        if not word:
-            if ready_text[n][nn]:
-                w = ready_text[n][nn]
-                w_check = ready_text[n][nn].capitalize()
-                word = annotate_text(w,ont, check=w_check)
-                if word:
-                    ready_text[n][nn] = word
+def main():
+    import os
+    s = list(os.walk("source"))
+    dir = s[0][0]
+    files = s[0][2]
+    for i in files:
+        f = open("{0}/{1}".format(dir, i)).read()
+        r = process_text(f)
+        f = open("done/{0}".format(i), "w")
+        f.write("<span vocab=\"http://velox.pw/~fox/index.rdf\">")
+        f.write(r)
+        f.write("</span>")
+        f.close()
 
+def test():
+    r = process_text("<test>Ethics")
+    print(r)
 
-print(ready_text)
-print()
-print("\n".join(" ".join([ii for ii in i if ii]) for i in ready_text))
-
+test()
+# main()
 
