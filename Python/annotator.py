@@ -8,7 +8,7 @@ import re
 #TODO: convert to actual tests
 
 ont = Ontology()
-ont.load(source="./Wittg2.owl")
+ont.load(source="../final.rdf")
 
 
 mentions = {}
@@ -20,7 +20,7 @@ def get_name(url):
 
 def create_namespace():
   l = {}
-  f = open("./Wittg2.owl").read()
+  f = open("../final.rdf").read()
   n = re.findall("<[^/\!\?].* ", f)
   for i in n:
     s = i[1:].strip()
@@ -135,7 +135,7 @@ def main():
         f = open("{0}/{1}".format(dir, i)).read()
         r = process_text(f, name=i)
         f = open("done/{0}".format(i), "w")
-        f.write("<span vocab=\"http://velox.pw/~fox/index.rdf\">")
+        f.write("<span vocab=\"http://example.org/index.rdf\" typeof=\"Source\">")
         f.write(r)
         f.write("</span>")
         f.close()
@@ -153,9 +153,9 @@ def format_owl(string,name):
          "wittgenstein.html": ("Wittgenstein_text", "Primary"),
          "janyne.html": ("Sattler_text", "Secondary")}
     s = """
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{0}">
-        <rdf:type rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{1}"/>
-        <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#{2}"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{0}">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{1}"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{2}"/>
     </owl:NamedIndividual>
     """
     return s.format(m[name][0], m[name][1], string)

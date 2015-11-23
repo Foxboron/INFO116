@@ -1,0 +1,1432 @@
+<span vocab="http://velox.pw/~fox/index.rdf" typeof="Source"><?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show | Sattler | From the ALWS archives: A selection of papers from the International Wittgenstein Symposia in Kirchberg am Wechsel</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show" />
+			<meta name="keywords" content="philosophy; 20th century philosophy; Wittgenstein Ludwig; ethics; saying vs showing; moral judgment; ataraxia" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Creator.PersonalName" content="Janyne Sattler"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2014-02-10"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2014-02-10"/>
+	<meta name="DC.Description" xml:lang="en" content="
+In both the <span property="Science">Lecture</span> on <span property="Ethics">Ethics</span> and the Tractatus, <span property="Ethics">Ethics</span> is not at all concerned with <span property="Language">facts</span> and is said to be
+<span property="Ethics">supernatural.</span> We all know that we cannot speak about
+what is beyond the limits of <span property="Language">language</span> as stated in these works, <span property="Language">language</span> being
+confined to empirical and <span property="Science">scientific</span> propositions. So, this places <span property="Ethics">Ethics</span>
+entirely out of the domain of what can legitimately be said. However, at the
+same time, Wittgenstein seems to allow, or maybe even to recommend, that even if
+an absolute judgment of <span property="Ethics">value</span> is not to be taken as a proposition, it should be expressed when the situation requires.
+Otherwise we would be involved in a moral mistake. I will investigate this
+possibility using here as a guide the following <span property="Language">expression</span> of the <span property="Science">Lecture</span> on <span property="Ethics">Ethics</span>
+“Well, you ought to want to behave better.”
+"/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>		
+	<meta name="DC.Format" scheme="IMT" content="text/html"/>		
+	<meta name="DC.Identifier" content="2840"/>
+		<meta name="DC.Identifier.URI" content="http://wittgensteinrepository.org/agora-alws/article/view/2840"/>
+	<meta name="DC.Language" scheme="ISO639-1" content=""/>
+	<meta name="DC.Source" content="From the ALWS archives: A selection of papers from the International Wittgenstein Symposia in Kirchberg am Wechsel"/>
+	<meta name="DC.Source.Issue" content=""/>
+	<meta name="DC.Source.URI" content="http://wittgensteinrepository.org/agora-alws"/>
+	<meta name="DC.Source.Volume" content=""/>
+						<meta name="DC.Subject" xml:lang="en" content="philosophy"/>
+								<meta name="DC.Subject" xml:lang="en" content="20th century philosophy"/>
+								<meta name="DC.Subject" xml:lang="en" content="Wittgenstein Ludwig"/>
+								<meta name="DC.Subject" xml:lang="en" content="ethics"/>
+								<meta name="DC.Subject" xml:lang="en" content="saying vs showing"/>
+								<meta name="DC.Subject" xml:lang="en" content="moral judgment"/>
+								<meta name="DC.Subject" xml:lang="en" content="ataraxia"/>
+				<meta name="DC.Title" content="Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show"/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Articles"/>	
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="From the ALWS archives: A selection of papers from the International Wittgenstein Symposia in Kirchberg am Wechsel"/>
+<meta name="citation_author" content="Janyne Sattler"/>
+	
+<meta name="citation_title" content="Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show"/>
+
+
+	<meta name="citation_volume" content=""/>
+	<meta name="citation_issue" content=""/>
+		<meta name="citation_abstract_html_url" content="http://wittgensteinrepository.org/agora-alws/article/view/2840"/>
+						<meta name="citation_keywords" xml:lang="en" content="philosophy"/>
+								<meta name="citation_keywords" xml:lang="en" content="20th century philosophy"/>
+								<meta name="citation_keywords" xml:lang="en" content="Wittgenstein Ludwig"/>
+								<meta name="citation_keywords" xml:lang="en" content="ethics"/>
+								<meta name="citation_keywords" xml:lang="en" content="saying vs showing"/>
+								<meta name="citation_keywords" xml:lang="en" content="moral judgment"/>
+								<meta name="citation_keywords" xml:lang="en" content="ataraxia"/>
+				<meta name="citation_pdf_url" content="http://wittgensteinrepository.org/agora-alws/article/download/2840/3403"/>
+	<meta name="citation_fulltext_html_url" content="http://wittgensteinrepository.org/agora-alws/article/view/2840/3404"/>
+	
+
+	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/articleView.css" type="text/css" />
+			<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/lib/pkp/styles/rtEmbedded.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/sidebar.css" type="text/css" />	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/leftSidebar.css" type="text/css" />	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/rightSidebar.css" type="text/css" />	<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/styles/bothSidebars.css" type="text/css" />
+			<link rel="stylesheet" href="http://wittgensteinrepository.org/ojs/public/journals/13/journalStyleSheet.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='http://wittgensteinrepository.org/ojs/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='http://wittgensteinrepository.org/ojs/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.2");
+			google.load("jqueryui", "1.8.1");
+		}
+	</script>
+	
+	<script type="text/javascript" src="http://wittgensteinrepository.org/ojs/lib/pkp/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://wittgensteinrepository.org/ojs/lib/pkp/js/fontController.js" ></script>
+	<script type="text/javascript">
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, "/ojs"); // Initialize the font sizer
+		});
+	</script>
+
+
+	<script type="text/javascript" src="http://wittgensteinrepository.org/ojs/lib/pkp/js/general.js"></script>
+	
+	<script language="javascript" type="text/javascript" src="http://wittgensteinrepository.org/ojs/js/articleView.js"></script>
+	<script language="javascript" type="text/javascript" src="http://wittgensteinrepository.org/ojs/js/pdfobject.js"></script>
+
+</head>
+<body>
+
+<div id="container">
+<div id="fade" class="black_overlay"></div>
+<div id="header">
+<div id="headerTitle">
+<h1>
+	From the ALWS archives: A selection of papers from the International Wittgenstein Symposia in Kirchberg am Wechsel
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+					<div id="leftSidebar">
+				<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=20th%20century%20philosophy"><span style="font-size: 171.99248120301%;">20th century philosophy</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=Nachlass"><span style="font-size: 78.759398496241%;">Nachlass</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=Wittgenstein%20Ludwig"><span style="font-size: 162.03007518797%;">Wittgenstein Ludwig</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=action"><span style="font-size: 76.315789473684%;">action</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=aesthetics"><span style="font-size: 77.631578947368%;">aesthetics</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=certainty"><span style="font-size: 76.691729323308%;">certainty</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=context"><span style="font-size: 76.315789473684%;">context</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=culture"><span style="font-size: 77.067669172932%;">culture</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=description"><span style="font-size: 76.691729323308%;">description</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=epistemology"><span style="font-size: 76.503759398496%;">epistemology</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=ethics"><span style="font-size: 80.075187969925%;">ethics</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=experience"><span style="font-size: 77.443609022556%;">experience</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=explanation"><span style="font-size: 76.691729323308%;">explanation</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=expression"><span style="font-size: 76.315789473684%;">expression</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=form%20of%20life"><span style="font-size: 79.135338345865%;">form of life</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=grammar"><span style="font-size: 78.383458646617%;">grammar</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=intentionality"><span style="font-size: 77.81954887218%;">intentionality</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=interpretation"><span style="font-size: 76.691729323308%;">interpretation</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=knowledge"><span style="font-size: 76.87969924812%;">knowledge</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=language"><span style="font-size: 80.263157894737%;">language</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=language%20game"><span style="font-size: 80.639097744361%;">language game</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=logic"><span style="font-size: 77.067669172932%;">logic</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=meaning"><span style="font-size: 81.578947368421%;">meaning</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=metaphor"><span style="font-size: 76.87969924812%;">metaphor</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=metaphysics"><span style="font-size: 77.81954887218%;">metaphysics</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=method"><span style="font-size: 77.067669172932%;">method</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=mind"><span style="font-size: 76.315789473684%;">mind</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=mind%20vs%20body"><span style="font-size: 76.503759398496%;">mind vs body</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=naturalism"><span style="font-size: 76.691729323308%;">naturalism</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=nonsense"><span style="font-size: 76.503759398496%;">nonsense</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=object"><span style="font-size: 77.255639097744%;">object</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=ontology"><span style="font-size: 77.255639097744%;">ontology</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=perspicuous%20presentation"><span style="font-size: 76.87969924812%;">perspicuous presentation</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=phenomenology"><span style="font-size: 77.067669172932%;">phenomenology</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=philosophy"><span style="font-size: 174.81203007519%;">philosophy</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=philosophy%20of%20language"><span style="font-size: 76.691729323308%;">philosophy of language</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=picture"><span style="font-size: 78.571428571429%;">picture</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=picture%20theory"><span style="font-size: 78.383458646617%;">picture theory</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=private%20language"><span style="font-size: 77.067669172932%;">private language</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=realism"><span style="font-size: 76.691729323308%;">realism</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=reference"><span style="font-size: 77.067669172932%;">reference</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=religion"><span style="font-size: 76.87969924812%;">religion</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=rule"><span style="font-size: 76.127819548872%;">rule</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=rule-following"><span style="font-size: 78.947368421053%;">rule-following</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=sense"><span style="font-size: 76.691729323308%;">sense</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=skepticism"><span style="font-size: 76.503759398496%;">skepticism</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=therapy"><span style="font-size: 77.067669172932%;">therapy</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=thinking"><span style="font-size: 76.315789473684%;">thinking</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=time"><span style="font-size: 76.87969924812%;">time</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=truth"><span style="font-size: 76.691729323308%;">truth</span></a>
+			<a href="http://wittgensteinrepository.org/agora-alws/search/advancedResults?subject=understanding"><span style="font-size: 76.87969924812%;">understanding</span></a>
+	</div>
+
+<div class="block" id="sidebarRTArticleTools">
+
+	<span class="blockTitle">Article Tools</span>
+				<div class="articleToolItem">
+			<img src="http://wittgensteinrepository.org/ojs/plugins/blocks/readingTools/icons/printArticle.png" class="articleToolIcon" /> <a href="javascript:openRTWindow('http://wittgensteinrepository.org/agora-alws/rt/printerFriendly/2840/3404');">Print this article</a>
+		</div>
+						<div class="articleToolItem">
+			<img src="http://wittgensteinrepository.org/ojs/plugins/blocks/readingTools/icons/suppFiles.png" class="articleToolIcon" /> <a href="javascript:openRTWindow('http://wittgensteinrepository.org/agora-alws/rt/suppFiles/2840/3404');">Supplementary files</a><br />
+		</div>
+				<div class="articleToolItem">
+			<img src="http://wittgensteinrepository.org/ojs/plugins/blocks/readingTools/icons/findingReferences.png" class="articleToolIcon" /> <a href="javascript:openRTWindow('http://wittgensteinrepository.org/agora-alws/rt/findingReferences/2840/3404');">Finding References</a>
+		</div>
+		<div class="articleToolItem">
+		<img src="http://wittgensteinrepository.org/ojs/plugins/blocks/readingTools/icons/editorialPolicies.png" class="articleToolIcon" /> <a href="http://wittgensteinrepository.org/agora-alws/about/editorialPolicies#peerReviewProcess" target="_parent">Review policy</a>
+	</div>
+			</div>
+
+			</div>
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div>	<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+	
+	<span class="blockSubtitle">Search</span>
+	<form method="post" action="http://wittgensteinrepository.org/agora-alws/search/results">
+	<table>
+	<tr>
+		<td><input type="text" id="query" name="query" size="15" maxlength="255" value="" class="textField" /></td>
+	</tr>
+	<tr>
+		<td><select name="searchField" size="1" class="selectMenu">
+			<option label="All" value="">All</option>
+<option label="Authors" value="1">Authors</option>
+<option label="Title" value="2">Title</option>
+<option label="Abstract" value="4">Abstract</option>
+<option label="Index terms" value="120">Index terms</option>
+<option label="Full Text" value="128">Full Text</option>
+
+		</select></td>
+	</tr>
+	<tr>
+		<td><input type="submit" value="Search" class="button" /></td>
+	</tr>
+	</table>
+	</form>
+	
+	<br />
+	
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="http://wittgensteinrepository.org/agora-alws/issue/archive">By Issue</a></li>
+		<li><a href="http://wittgensteinrepository.org/agora-alws/search/authors">By Author</a></li>
+		<li><a href="http://wittgensteinrepository.org/agora-alws/search/titles">By Title</a></li>
+				<li><a href="http://wittgensteinrepository.org/">Other Journals</a></li>
+			</ul>
+	</div>
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="http://wittgensteinrepository.org/agora-alws/index">Home</a></li>
+		<li id="about"><a href="http://wittgensteinrepository.org/agora-alws/about">About</a></li>
+
+					<li id="login"><a href="http://wittgensteinrepository.org/agora-alws/login">Log In</a></li>
+							<li id="register"><a href="http://wittgensteinrepository.org/agora-alws/user/register">Register</a></li>
+										<li id="search"><a href="http://wittgensteinrepository.org/agora-alws/search">Search</a></li>
+		
+					<li id="current"><a href="http://wittgensteinrepository.org/agora-alws/issue/current">Current</a></li>
+			<li id="archives"><a href="http://wittgensteinrepository.org/agora-alws/issue/archive">Archives</a></li>
+		
+				
+
+								</ul>
+</div>
+
+<div id="breadcrumb">
+	<a href="http://wittgensteinrepository.org/agora-alws/index" target="_parent">Home</a> &gt;
+	<a href="http://wittgensteinrepository.org/agora-alws/issue/view/184" target="_parent">(2010) Papers of the 33rd IWS (eds. E. Nemeth, R. Heinrich, W. Pichler)</a> &gt;	<a href="http://wittgensteinrepository.org/agora-alws/article/view/2840/3404" class="current" target="_parent">Sattler</a>
+</div>
+
+<div id="content">
+
+			<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><!--THIS FILE IS GENERATED FROM AN XML MASTER. DO NOT EDIT (5)--><title>Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show</title><meta name="author" content="Janyne Sattler" /><meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets" /><meta name="DC.Title" content="Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show" /><meta name="DC.Type" content="Text" /><meta name="DC.Format" content="text/html" /><link rel="stylesheet" media="print" type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei-print.css" /><style type="text/css" title="inline_css">/*
+** Copyright 2011 TEI Consortium
+
+
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the
+Free Software Foundation, Inc.,
+59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+*/
+
+
+/* main layout */
+
+body.simple {
+color: #000000;
+background-color: #FFFFFF;
+margin: 10pt;
+}
+
+body{
+color: #000000;
+background-color: #FFFFFF;
+margin: 10pt;
+padding:0;
+font-family: Verdana, Tahoma, Geneva, Arial, Helvetica, sans-serif;
+}
+
+body.pagetable {
+color: #000000;
+background-color: #FFFFFF;
+}
+
+/* 3 columns allowed for, or just a right and left */
+#col1{
+width: 20%;
+background: #FFFFFF;
+margin: 0;
+margin-top: 10px;
+color: #000066;
+padding: 5px;
+position : absolute;
+float: left;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+}
+
+#col2{
+background: #FFFFFF;
+color: #333333;
+border-style: solid;
+border-width: 1px;
+border-color: #000000;
+margin: 0;
+margin-top: 10px;
+padding: 5px ;
+left: 22%;
+width: 51%;
+position : absolute;
+}
+
+#col3{
+width: 24%;
+left: 75%;
+color: #000066;
+background: #FFFFFF;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+margin: 0;
+margin-top: 10px;
+padding: 5px;
+position : absolute;
+float: right;
+}
+
+#lh-col{
+width: 16%;
+color: #000000;
+margin-top: 2pt;
+margin-right: 10pt;
+padding: 5px;
+background-color: #FFFFFF;
+float: left;
+font-weight:normal;
+}
+
+#rh-col{
+background-color: #FFFFFF;
+color: #333333;
+margin: 2pt;
+padding: 5px ;
+float: right;
+width: 75%;
+font-weight:normal;
+}
+
+
+/* now the layers of the header */
+
+/* the main title */
+div.stdheader {
+border-bottom: 1pt solid black;
+}
+
+#hdr{
+width: auto;
+margin: 0;
+background-repeat : no-repeat;
+overflow : inherit;
+}
+
+/* a navigation bar */
+#hdr2{
+width: auto;
+color: #000000;
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+background-color : #99CCFF;
+padding-left : 5px;
+padding-bottom : 2px;
+padding-top : 2px;
+padding-right : 5px;
+}
+
+/* a breadcrumb trail */
+#hdr3{
+width: auto;
+color: #000000;
+background-color : #AD06BC;
+padding-left : 5px;
+padding-bottom : 2px;
+padding-top : 2px;
+padding-right : 5px;
+font-family: Arial,Helvetica,sans-serif;
+font-weight : bold;
+font-size: smaller;
+}
+
+.bannerright {
+float: right;
+margin-right : 5px;
+color: #FFFFFF;
+font-family : Arial, Helvetica, sans-serif;
+font-size : 0.8em;
+font-weight : bold;
+text-decoration: none;
+}
+
+/* section headings */
+#hdr h1 { color: red; }
+h1 {
+font-weight: bold;
+font-size: 2em;
+line-height: 34pt;
+}
+h1.center {
+font-weight: bold;
+font-size: 2em;
+line-height: 34pt;
+text-align : center;
+}
+
+
+h2 {
+font-size: larger;
+line-height: 20pt;
+margin-top: 18pt;
+font-weight: bold;
+}
+h2.center {
+font-size: larger;
+line-height: 20pt;
+margin-top: 18pt;
+font-weight: bold;
+text-align : center;
+
+}
+
+h3 {
+font-size: larger;
+line-height: 18pt;
+font-weight: bold;
+font-style: italic;
+}
+h3.center {
+font-size: larger;
+line-height: 18pt;
+font-weight: bold;
+font-style: italic;
+text-align : center;
+}
+
+
+h1.maintitle {
+margin-left: 100px;
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+bottom: 5px;
+}
+
+h1.title {
+margin-left: 100px;
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+bottom: 5px;
+}
+
+h2.institution {
+margin-left: 100px;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+h2.department {
+margin-left: 100px;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+h2.subtitle {
+margin-left: 100px;
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+}
+
+.footer {
+text-align : center;
+font-family: Arial,Helvetica,sans-serif;
+font-size : 0.8em;
+}
+
+
+
+/* components of the breadcrumb trail */
+a.breadcrumb{
+color: #FFFFFF;
+text-decoration: none;
+padding-right : 5px;
+font-family: Arial,Helvetica,sans-serif;
+font-weight : bold;
+font-size : 0.8em;
+}
+
+ul.breadcrumb
+{
+display: inline;
+font-size: 1.1em;
+}
+
+li.breadcrumb:before: "▶";
+li.breadcrumb-first:before: "▶";
+li.breadcrumb
+{
+padding-left: 12px;
+padding-right: 5px;
+display: inline;
+color: #000000;
+}
+li.breadcrumb-first
+{
+padding-left: 12px;
+padding-right: 5px;
+display: inline;
+color: #000000;
+}
+
+div.breadcrumb {
+display: inline;
+}
+
+.skiplinks{
+font-family: arial, sans-serif;
+color: #FFFFFF;
+font-weight : bold;
+font-size : 0.8em;
+text-decoration: none;
+padding-right : 15px;
+}
+
+.tocontent{
+color : #000066;
+display : none;
+}
+
+.hide{
+display : none;
+}
+
+.framestdlink {
+color: red;
+font-size: smaller;
+font-weight: bold;
+}
+
+a:hover
+{
+text-decoration: underline;
+}
+
+a.navbar:link
+{
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a.navbar:visited
+{
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a.navbar:hover {
+color: #FFFFFF;
+text-decoration: underline;
+}
+
+
+/* for use when making pages using a table */
+td.hdr2 {
+color: #000000;
+background-color : #99CCFF;
+}
+td.hdr3 {
+background-color : #AD06BC;
+border: 1pt solid #000000;
+}
+
+td.sidetext {
+border-right: 1pt solid #000000;
+}
+td.maintext p {
+font-family: Arial,Helvetica,sans-serif;
+}
+
+td.maintext {
+background-color: #FFFFFF;
+font-family: Arial,Helvetica,sans-serif;
+color: #000000;
+padding-left: 6pt;
+padding-right: 6pt;
+}
+
+table.wovenodd td,p.wovenodd {
+background-color: #FFFFFF;
+}
+
+/* an inner &lt;text&gt;, eg inside a &lt;q&gt; */
+div.innertext {
+margin: 6pt;
+border: 1pt solid red;
+}
+/* literal code */
+
+div.cdata {
+white-space: pre;
+clear:both;
+}
+
+pre,div.pre,div.pre_eg,pre.eg,div.eg {
+clear:both;
+margin-top: 1em;
+margin-bottom:1em;
+border-top-width: 4px;
+border-bottom-width: 4px;
+border-left-width: 2px;
+border-right-width: 2px;
+border-style: solid;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+color: #000000;
+line-height: 1.1em;
+font-family: monospace;
+font-size: 10pt;
+white-space: pre;
+}
+
+div.egXML_valid {
+background-color: #f7f9f6;
+border-color: #c5d8bb;
+}
+div.egXML_feasible {
+background-color: #fff9f3;
+border-color: #ffe1ad;
+}
+div.egXML_invalid {
+border-color: #ffe7e8 ;
+background-color: #fdbbac;
+}
+
+
+/* table of contents */
+ul.toc {list-style: none;}
+li.toc {list-style: none;}
+
+/* table of contents links */
+
+a.inlinetoc:link,a.inlinetoc:visited
+{
+color: #7A7A7A;
+font-size: smaller;
+text-decoration: none;
+}
+
+a.inlinetoc-this:visited,a.inlinetoc-this:link
+{
+font-size: smaller;
+color: #000000;
+font-weight: bold;
+text-decoration: underline;
+}
+
+a.inlinetoc-sub:visited,a.inlinetoc-sub:link
+{
+text-decoration: none;
+color: #000000;
+font-weight: normal;
+font-size: smaller;
+}
+
+span.toclist{
+font-size: smaller;
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+}
+
+p.toclist0 {
+margin-left: 0.5em;
+margin-top: 1pt;
+margin-bottom: 3pt;
+text-indent: -0.5em;
+font-size: small;
+}
+
+p.toclist1 {
+margin-left: 1em;
+margin-top: 1pt;
+margin-bottom: 2pt;
+text-indent: -0.7em;
+font-size: small;
+}
+
+p.toclist2 {
+margin-left: 1.5em;
+text-indent: -1em;
+font-size: small;
+}
+
+p.toclist3 {
+margin-left: 2em;
+text-indent: -1.5em;
+font-size: small;
+}
+
+span.toclist-this {
+color: red;
+}
+
+a.toclist:visited,a.toclist:link
+{
+font-weight: bold;
+color: #000000;
+text-decoration: none;
+}
+
+
+
+/* notes */
+div.noteHeading {
+margin-top: 9pt;
+border: 0;
+border-top: 1pt;
+border-style: solid;
+padding-top: 6pt;
+font-size: larger;
+font-weight: bold;
+}
+div.noteBody {
+display:inline;
+}
+
+div.note {
+margin-left: 1em;
+margin-bottom: 4pt;
+text-indent: -1em;
+}
+
+span.noteLabel {
+font-style: italic;
+}
+span.noteNumber:before {
+content: "[";
+}
+span.noteNumber:after {
+content: "]. ";
+}
+
+/* images */
+img.display {
+margin-top: 10pt;
+margin-bottom: 10pt;
+display: block;
+}
+.caption {
+font-style: italic;
+display:block;
+text-align:center;
+}
+
+.floatimage {
+float : centre;
+margin-right : 6px;
+vertical-align : top;
+}
+/* specialized divs */
+div.letter {
+margin-left: 2em;
+margin-right: 2em;
+margin-top: 6pt;
+margin-bottom: 6pt;
+border-top: 1pt solid green;
+border-bottom: 1pt solid green;
+}
+/* title page */
+div.titlePage,div.titlepage {
+border-top: 2pt solid #000000;
+border-bottom: 2pt solid #000000;
+padding-top: 6pt;
+padding-bottom: 6pt;
+font-size: larger;
+text-align: center;
+}
+.docImprint {
+display: block;
+font-style: italic;
+}
+.docDate {
+font-style: italic;
+}
+.docTitle {
+display: block;
+margin-top: 6pt;
+font-weight: bold;
+margin-bottom: 18pt;
+}
+.docAuthor {
+font-style: italic;
+}
+
+.byline {
+display: block;
+}
+
+div.dateline{
+text-align: right;
+}
+/* verse */
+div.lg {
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+div.centerbold {
+text-align:center;
+font-weight: bold;
+}
+div.center {
+text-align:center;
+}
+div.right {
+text-align:right;
+}
+div.left {
+text-align:left;
+}
+div.signed {
+text-align:left;
+}
+div.l {
+text-align:left;
+margin-left: 1em;
+}
+div.epigraph {
+text-align:right;
+margin: 20pt;
+}
+div.numbering {
+float:left;
+font-size:smaller;
+width: 2em;
+}
+
+div.linenumber { }
+
+p.center {
+text-align:center;
+}
+p.right {
+text-align:right;
+}
+p.left {
+text-align:left;
+}
+
+.indent{
+text-indent: 2em;
+}
+
+div.indent {
+text-indent: 0em;
+}
+
+
+div.indent1 {
+margin-left: 1em;
+}
+div.indent2 {
+margin-left: 2em;
+}
+div.indent3 {
+margin-left: 3em;
+}
+div.indent4 {
+margin-left: 4em;
+}
+div.indent5 {
+margin-left: 5em;
+}
+div.indent6 {
+margin-left: 6em;
+}
+/* misc inline*/
+
+span.foreign {
+font-style: italic;
+}
+
+.plain {
+text-decoration: none;
+}
+
+p.box {
+border: 1pt solid #000000;
+}
+
+.small {
+font-size: small;
+}
+
+td.label {
+font-weight: bold;
+background-color: #AAAAAA;
+}
+tr.label td {
+font-weight: bold;
+background-color: #AAAAAA;
+}
+
+span.label {
+font-weight: bold;
+}
+
+h5 {
+font-size: 100%;
+}
+h6 {
+font-size: 100%;
+}
+
+div.tocFront {
+border-bottom: 1pt solid #000000;
+}
+div.tocBack {
+border-bottom: 1pt solid #000000;
+}
+div.tocBody {
+border-bottom: 1pt solid #000000;
+}
+
+ul.listBibl {
+list-style : none;
+list-item-style: none;
+}
+
+ol.listBibl {
+list-style : none;
+list-item-style: none;
+}
+
+/* a listBibl rend='labels' */
+div.listBibl {
+margin-top: 6pt;
+margin-bottom: 6pt;
+}
+div.bibl {
+margin-left: 0.5em;
+text-indent: -0.5em;
+}
+div.biblfree {
+font-size: smaller;
+margin-left: 0.5em;
+text-indent: -0.5em;
+margin-bottom: 6pt;
+}
+
+span.biblLabel {
+font-weight: bold;
+margin-right: 1em;
+}
+
+span.corr {
+color: red;
+}
+
+/* a &lt;bibl&gt; inside a &lt;cit&gt; */
+div.citbibl:before {
+content: "(";
+}
+div.citbibl:after {
+content: ")";
+}
+div.citbibl {
+text-align:right;
+font-size: smaller;
+}
+/* a &lt;quote&gt; inside a &lt;cit&gt; */
+div.citquote {
+margin-left: 10pt;
+margin-right: 10pt;
+}
+
+/* gloss lists with bold labels */
+dt {
+font-weight: bold;
+}
+
+span.indent {
+display:block;
+font-size:smaller;
+text-indent: 5mm;
+}
+
+/* generic &lt;hi&gt; */
+span.hi {
+font-weight: bold;
+}
+
+/* from drama */
+/* speeches in drama */
+div.p-in-sp {
+margin-left: 1em;
+}
+div.sp {
+margin-top: 4pt;
+}
+div.spProse {
+text-indent: -1em;
+margin-left: 1em;
+}
+div.speaker {
+font-weight: bold;
+}
+span.speaker {
+font-style: italic;
+}
+
+span.actor {
+font-style:italic;
+}
+span.camera {
+font-style: italic;
+}
+span.caption {
+font-style: italic;
+}
+span.right {
+display:block;
+text-align:right;
+}
+span.role {
+font-style: italic;
+}
+span.set {
+font-style: italic;
+}
+span.sound {
+font-style: italic;
+}
+span.stage {
+font-style: italic;
+}
+span.tech {
+font-style: italic;
+}
+span.view {
+font-style: italic;
+}
+span.mentioned {
+font-style: italic;
+}
+span.nextLink {
+font-style: italic;
+}
+span.previousLink {
+font-style: italic;
+}
+span.upLink {
+font-style: italic;
+}
+p, div.p {
+margin-top: 0.3em;
+}
+/* bibl */
+span.titlem {
+font-style: italic;
+}
+span.titlej {
+font-style: italic;
+}
+span.titleu {
+}
+span.titles {
+}
+
+span.notemargin {
+display: block;
+font-size: smaller;
+clear: right;
+padding: 4pt;
+font-style: italic;
+width: 10%;
+float:right;
+border: solid green 1pt;
+margin: 6pt;
+}
+
+div.floatingText_back {
+border-top: solid black 1pt;
+}
+div.floatingText_front {
+border-top: solid black 1pt;
+}
+div.floatingText {
+margin: 6pt;
+border: solid black 1pt;
+}
+span.pagebreak {
+background-color: green;
+font-weight: bold;
+}
+div.pagebreak {
+display: block;
+border: solid red 1pt;
+}
+span.element {
+font-weight: bold;
+color: black;
+}
+span.unclear {
+font-weight: bold;
+}
+span.wordtypeNN, span.wordtypeNNS {
+color: green;
+}
+span.wordtypeVVD,span.wordtypeVVN,span.wordtypeVVN,span.wordtypeVVZ,span.wordtypeVVG, span.wordtypeVV {
+color: red;
+}
+
+li.headless {
+display: none;
+}
+span.hi {
+font-weight: bold;
+}
+
+div.footer {
+border-top: solid black 1pt;
+}
+
+div.stdfooter {
+border-top: solid black 1pt;
+border-bottom: solid black 1pt;
+}
+
+div.altfigure {
+border-top: solid black 1pt;
+border-bottom: solid black 1pt;
+}
+
+table {empty-cells: show;}
+
+table.table, table.table tr, table.table td {
+border: solid black 1pt;
+}
+table.table td {
+padding: 1ex 1ex 1ex 1ex;
+}
+p.mainAuthor {
+display: block;
+margin: 1ex 0ex 1ex 0ex;
+}
+p.mainEditor {
+display: block;
+margin: 1ex 0ex 1ex 0ex;
+}
+
+/* odd-specific styles removed */
+
+/* A -Z Styles From http://www.smileycat.com/miaow/archives/000211.php -styling the a to z */
+#azindex {
+background-color: #ddd;
+color:inherit;
+display: block;
+margin: 0px;
+float: left;
+padding: 5px;
+width: 75%;
+border: 1px solid #999;
+}
+#azindex p {
+color: #fff;
+background-color: #000060;
+padding: 4px;
+display: block;
+margin: 0;
+border-bottom: 1px solid #333;
+font-size: 0.95em;
+}
+.index {
+font: bold 100% Verdana, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+}
+.index li {
+float: left;
+height: 1.5em;
+list-style-type: none;
+margin: 0.35em 0.15em;
+padding: 0;
+width: 1.5em;
+}
+.index a:link, .index a:visited {
+background: #fff;
+color: navy;
+display: block;
+height: 1.5em;
+padding: 0.37em 0 0 0;
+text-align: center;
+text-decoration: none;
+width: 1.5em;
+border: 1px solid #999;
+}
+li.showall, li.showall a:visited,li.showall a:link {
+width: 10em;
+}
+* html .index li {
+margin: 0.2em 0.2em;
+}
+ul.index li a:hover {
+background-color: #93D1E4;
+color: #fff;
+text-decoration: underline;
+}
+div.atozwrapper {
+float: left;
+width: 70%;
+}
+div.atoz {
+clear: left;
+float: left;
+}
+#byMod {
+margin-top: 12px;
+clear: left;
+}
+ul.atoz {
+list-style: none;
+text-align:left;
+margin: 2px;
+padding: 2px;
+background-color: #eef;
+color:inherit;
+}
+.atoz li {
+padding: 0px;
+display: inline;
+}
+span.listhead {
+margin-top: 0em;
+margin-right: 1em;
+padding-left: 3px;
+padding-right: 3px;
+color: #000066;
+font-weight: bold;
+font-size: large;
+}
+/* End of A - Z styles */
+div.specChildren {
+margin: 0em;
+padding: 0em;
+}
+span.specChildModule {
+font-weight: bold;
+}
+div.specChild {
+margin-bottom: 4pt;
+margin-left: 25px;
+text-indent: -30px;
+}
+span.emptySlash:after {
+content: "/";
+}
+/* status notation */
+.status_deprecated:after {
+content: " (deprecated)";
+color: red;
+}
+.status_changed:after {
+content: " (changed)";
+color: blue;
+}
+.status_unstable:after {
+content: " (unstable)";
+color: orange;
+}
+.status_deprecated {
+border: solid red 1pt;
+}
+.status_changed {
+border: solid blue 1pt;
+}
+.status_unstable {
+border: solid orange 1pt;
+}
+/* &lt;hi&gt; rend values */
+span.typewriter{
+font-family: monospace;
+}
+span.normalweight{
+}
+span.smallcaps{
+font-variant: small-caps;
+}
+span.capsall{
+text-transform: uppercase;
+}
+span.strikethrough{
+text-decoration: line-through;
+}
+span.strikedoublethrough{
+text-decoration: line-through;
+}
+span.underline{
+text-decoration: underline;
+}
+span.underwavyline{
+text-decoration-line: underline;
+text-decoration-style: wavy;
+}
+span.underdoubleline{
+text-decoration: underline;
+}
+span.superscript {
+vertical-align: top;
+font-size: 70%;
+}
+span.subscript {
+vertical-align: bottom;
+font-size: 70%;
+}
+
+span.numberParagraph:before {
+content:"[";
+}
+span.numberParagraph:after {
+content:"] ";
+}
+span.numberParagraph {
+font-size: smaller;
+color: grey;
+}
+
+
+blockquote.block {
+display:block;
+font-size:smaller;
+}
+
+table td {
+border: solid black 1pt;
+padding: 1ex 1ex 1ex 1ex;
+/*text-align: center;*/
+font-size:medium;
+}
+
+table {
+/* trick to centre table: may not work with IE */
+margin-left: auto;
+margin-right: auto;
+}
+
+
+span.centre {
+display: block;
+text-align:center;
+}
+
+p.centre {
+display: block;
+text-align:center;
+}
+
+
+
+.centre .center{
+display: block;
+text-align:center;
+}
+
+				</style></head><body class="simple" id="TOP"><div class="titlePage"><div class="docTitle"><div class="titlePart">Moral Judgments as Part of What <span property="Ethics">Ethics</span> Must Show</div></div><div class="byline"><span class="docAuthor"><span typeof="hasAuthor"><span properties="Author">Janyne Sattler</span></span></span>, Montréal, Canada</div></div><div class="abstract"><h2><span class="head">Abstract</span></h2><p id="index.xml-p-d29e96">In both the <span style="font-style: italic">Lecture on Ethics</span> and the <span style="font-style: italic">Tractatus</span>, <span property="Ethics">Ethics</span> is not at all concerned with <span property="Language">facts</span> and is said to be <span style="font-style: italic">supernatural</span>. We all know that we cannot speak about what is beyond the limits of <span property="Language">language</span> as stated in these works, <span property="Language">language</span> being confined to empirical and <span property="Science">scientific</span> propositions. So, this places <span property="Ethics">Ethics</span> entirely out of the domain of what can legitimately be said. However, at the same time, Wittgenstein seems to allow, or maybe even to recommend, that even if an absolute judgment of <span property="Ethics">value</span> is not to be taken as a proposition, it <span style="font-style: italic">should</span> be expressed when the situation requires. Otherwise we would be involved in a moral mistake. I will investigate this possibility using here as a guide the following <span property="Language">expression</span> of the <span style="font-style: italic">Lecture on Ethics</span> <span class="quote">“Well, you ought to want to behave better.”</span></p></div><h2>Table of contents</h2><ul class="toc toc_front"></ul><ul class="toc toc_body"><li class="toc"><a class="toc toc_0" href="#index.xml-body.1_div.1">1. Saying and showing, <span property="Philosophy">sense</span> and nonsense</a></li><li class="toc"><a class="toc toc_0" href="#index.xml-body.1_div.2">2. Ethics</a></li></ul><ul class="toc toc_back"><li class="toc"><a class="toc toc_0" href="#index.xml-back.1_div.1">Literature</a></li></ul><div class="teidiv0" id="index.xml-body.1_div.1"><h2><span class="head">1. Saying and showing, <span property="Philosophy">sense</span> and nonsense</span></h2><p id="index.xml-p-d29e120">The main purpose of this text is to show that expressions such as <span class="quote">“Well, you <span style="font-style: italic">ought</span> to want to behave better,”</span> which in the <span style="font-style: italic">Lecture on Ethics</span> Wittgenstein names <span class="quote">“absolute judgments of value,”</span> have to be expressed despite the fact that they are not legitimate propositions of <span property="Language">language</span> and so cannot be <span style="font-style: italic">said</span>. The reason why this is so is that <span style="font-style: italic">showing</span> what is <span property="Ethics">right or wrong</span> to do is part of a correct and coherent way of living, which in our case means the living of a happy <span property="Ethics">life.</span> To go through all this I’ll first need to talk about some essential distinctions and “definitions” present in both the <span style="font-style: italic">Lecture</span> and in the <span style="font-style: italic">Tractatus Logico-Philosophicus</span>. I take these works as containing the same conception of <span property="Language">language</span> and of <span property="Ethics">Ethics,</span> even if the <span style="font-style: italic">Lecture</span> dates from ten years later than the <span style="font-style: italic">Tractatus</span>.</p><p style="text-indent: 5em" id="index.xml-p-d29e153">Let’s begin with the saying and showing distinction. According to Wittgenstein’s own criteria the only <span property="Language">language</span> which can be named as such is the one following the radical and restrictive logical conditions of <span style="font-style: italic">sense</span>: a descriptive <span property="Language">language</span> which must fit reality positively or negatively and which has bipolarity as one of its main traits. Given these conditions, the fitting in question is only possible between <span style="font-style: italic">language</span> and <span style="font-style: italic">facts</span>. And this is why its propositions are solely empirical and <span property="Science">scientific</span> propositions. Everything which does not follow these conditions is therefore <span style="font-style: italic">nonsense</span>, and in this domain we can find <span property="Diverse">Logic,</span> <span property="Ethics">Ethics,</span> Aesthetics, <span property="Religion">Religion</span> and <span property="Philosophy">Philosophy</span> itself. Nowadays it is already clear that the nonsense is not to be considered as mere gibberish and dismissed as such (surely, one major exception is the “resolute reading,” which I’ll however not discuss here), as is also clear that Wittgenstein’s intention was not a positivist one as the Vienna Circle thought it was. On the contrary, Wittgenstein was trying to keep in safe the things he thought were the most important ones, <span property="Ethics">Ethics</span> surely among them all. In doing this Wittgenstein gave <span property="Philosophy">Philosophy</span> a new task, the one of clarifying <span property="Language">language</span> and sorting out nonsense; so <span property="Philosophy">Philosophy</span> has now to be a critical activity and do no more “philosophical propositions” of any kind, as we can read at the paragraph 4.112 of the <span style="font-style: italic">Tractatus</span>. Now we also know that this <span property="Language">book</span> had not only a logical purpose, but that the cleaning in question had major ethical reasons: in restricting <span property="Language">language</span> to an empirical and <span property="Science">scientific</span> <span property="Language">language,</span> Wittgenstein also aimed to bring peace to our disturbed and confused philosophical minds struggling to understand what <span property="Ethics">Ethics</span> is all about and writing innumerous (mistaken) moral theories. As Wittgenstein himself told in a letter to Ficker, what we cannot speak is what really mattered to him (Wittgenstein 2001, letter 53.) And as we can see in the <span style="font-style: italic">Tractatus</span>: that about what we cannot speak shows itself and trying to talk about it can’t but bring us damage.</p><p style="text-indent: 5em" id="index.xml-p-d29e174">So let’s now try to understand what is this <span style="font-style: italic">nonsense</span> Wittgenstein is trying to dismiss as (logically and morally) damaging. First of all, it doesn’t seem to me to be the nonsense of “logical propositions,” tautologies and contradictions (even if these are equally not legitimate propositions); these show themselves immediately as such and do not lead us to any <span style="font-style: italic">illusion of sense</span>. Wittgenstein is not entirely coherent, but the term he uses to talk about it is <span style="font-style: italic">sinnlos</span>. Things are different when it comes about the term <span style="font-style: italic">unsinnig</span>: its use in the <span style="font-style: italic">Tractatus</span> is deeply related to supposed “metaphysical-philosophical propositions” attempting to say what is already shown in no matter which “philosophical domain.” This kind of <span property="Language">expression</span> is not immediately absurd or tautological but could give us a certain <span style="font-style: italic">illusion of sense</span>. And this is why Wittgenstein’s own example could at first sound as a legitimate proposition: <span class="quote">“the question whether the <span property="Psychological">Good</span> is more or less identical than the Beautiful” (<span style="font-style: italic">Tractatus</span>, 4.003.)</span></p><p style="text-indent: 5em" id="index.xml-p-d29e200">The suggestion I would like to advance here is that the nonsense Wittgenstein is dismissing is the one which, when expressed, is <span style="font-style: italic">superfluous</span>. The saying and showing distinction was of the utmost importance exactly because we cannot say what we cannot say (due to the logical conditions of <span property="Philosophy">sense),</span> but also because we cannot say what shows itself (and even the logical conditions of <span property="Philosophy">sense</span> show themselves in sound <span property="Language">language.)</span> And what shows itself is that which is necessary as a condition to that which is sayable. The nonsense Wittgenstein is dismissing could then receive the following “definition”: nonsense is every attempt to <span style="font-style: italic">say</span> what is <span style="font-style: italic">necessarily shown</span>.</p><p style="text-indent: 5em" id="index.xml-p-d29e211">At the paragraph 4.1212 of the <span style="font-style: italic">Tractatus</span> Wittgenstein says that <span class="quote">“what <span style="font-style: italic">can</span> be shown <span style="font-style: italic">cannot</span> be said.”</span> All logical (internal) properties of <span property="Language">language</span> show themselves in language; the way <span property="Language">language</span> works is already given with <span property="Language">language</span> itself. In the same manner, the very essence of the <span property="Language">world</span> is shown through language: <span class="quote">“logic is not a body of doctrine, but a mirror-image of the world” (<span style="font-style: italic">Tractatus</span>, 6.13.)</span> That the <span property="Language">world</span> exists is already given with the fact of <span property="Language">language</span> itself. And this is necessary, it could not be otherwise. (We can find several other examples concerning this point in the <span style="font-style: italic">Tractatus</span> and in the <span style="font-style: italic">Notebooks 1914-1916</span>; however, I don’t have space here to discuss it longer.)</p><p style="text-indent: 5em" id="index.xml-p-d29e237">Now I would like to suggest that this is exactly the same when it comes to Ethics: we cannot have ethical propositions because, as it happens in the case of <span property="Diverse">Logic,</span> it would be <span style="font-style: italic">superfluous</span> to assert something which is necessarily shown.</p></div><div class="teidiv0" id="index.xml-body.1_div.2"><h2><span class="head">2. Ethics</span></h2><p id="index.xml-p-d29e245">How could <span property="Ethics">Ethics</span> be shown? To answer this question we actually need to be sure that for Wittgenstein there’s something like necessary ethical values as there are necessary logical properties of <span property="Language">language.</span> And I think we can give a positive answer to this question through Wittgenstein’s own “definition” of what <span property="Ethics">Ethics</span> could be.</p><p style="text-indent: 5em" id="index.xml-p-d29e247">He does this in the <span style="font-style: italic">Lecture </span>unfolding Moore’s <span property="Language">definition</span> given in the <span style="font-style: italic">Principia Ethica</span>: <span class="quote">“Ethics is the general inquiry into what is good.”</span> Wittgenstein then says that we could also think about <span property="Ethics">Ethics</span> as the <span class="quote">“inquiry into what is valuable, or, into what is really important, or I could have said <span property="Ethics">Ethics</span> is the inquiry into the <span property="Philosophy">meaning</span> of <span property="Ethics">life,</span> or into what makes <span property="Ethics">life</span> worth living, or into the right way of living” (Wittgenstein 1997, p.66.)</span> Certain elements of this <span property="Language">definition</span> can also be found in the <span style="font-style: italic">Tractatus</span> but in a more riddling manner, as in the paragraphs 6.52 and 6.521 concerning the unspeakable <span property="Philosophy">sense</span> of life: <span style="font-style: italic">there is</span> a <span property="Philosophy">sense</span> of <span property="Ethics">life</span> which can be attained as a solution to the supposed problems of <span property="Ethics">life,</span> only it cannot be <span style="font-style: italic">said</span>; or as in the paragraphs 6.423 and 6.43 concerning the <span property="Psychological">good</span> and <span property="Psychological">bad</span> will which will then match with the happy or the unhappy life; or as in the last but one paragraph (6.54) where Wittgenstein says that <span style="font-style: italic">there is</span> a correct way of seeing the <span property="Language">world.</span> (I’ll not talk about the logical aspect of this correction, exactly because I’m taking an ethical point of view, but I’m aware that both ethical and logical aspects of seeing the <span property="Language">world</span> correctly are of importance for what Wittgenstein is aiming at the <span style="font-style: italic">Tractatus</span>.)</p><p style="text-indent: 5em" id="index.xml-p-d29e279">All this cannot be said or put into a moral theory and even the term “definition” employed above is in this <span property="Philosophy">sense</span> misleading. But I think Wittgenstein’s <span property="Ethics">Ethics</span> is not empty of a content which, as I argue in my thesis, could be qualified as stoical. The point I’m suggesting is not that we can find stoical influences in his works, but that we can understand his <span property="Ethics">Ethics</span> better if we understand it as having several stoical elements and characteristics and that a correct and coherent way of seeing the <span property="Language">world</span> must necessarily integrate those traits. So, for instance, the will, the carrier of <span property="Ethics">Ethics,</span> can be <span property="Psychological">good</span> or <span property="Psychological">bad</span> and lead to a correct or an incorrect way of <span property="Ethics">life.</span> In the <span style="font-style: italic">Notebooks</span> the correct way of <span property="Ethics">life</span> is identified with the happy <span property="Ethics">life</span> (entry 30.7.16) and is characterized as a <span property="Ethics">life</span> lived in the present, without fears and hopes, without fear of death, in accordance with the <span property="Language">world</span> as it is and in accordance with whatever happens in the <span property="Language">world,</span> because in it everything happens by mere chance. The <span property="Language">world</span> of <span property="Language">facts</span> is neither <span property="Psychological">bad</span> nor <span property="Psychological">good,</span> but these are characteristics of the willing subject which, as a limit, does not appear <span style="font-style: italic">in the world</span>. Still, this happy <span property="Ethics">life</span> should integrate <span property="Psychological">good</span> actions which are in themselves rewarding, as is stated in the paragraph 6.422 of the <span style="font-style: italic">Tractatus</span>: </p><blockquote class="block"><p>The first thought in setting up an ethical law of the form ʽ‘thou shalt…’ʼ is: And what if I do not do it? But it is clear that <span property="Ethics">ethics</span> has nothing to do with punishment and reward in the ordinary <span property="Philosophy">sense.</span> This question as to the <span style="font-style: italic">consequences</span> of an action must therefore be irrelevant. At least these consequences will not be events. For there must be something right in that formulation of the question. There must be some sort of ethical reward and ethical punishment, but this must lie in the action itself. (And this is clear also that the reward must be something pleasant, and the punishment something unpleasant.)</p></blockquote><p style="text-indent: 5em" id="index.xml-p-d29e295">Good actions bring the reward in themselves and I think that this can only mean for the willing subject a <span property="Psychological">good</span> consciousness, peace of mind, or in stoical terms, <span style="font-style: italic">ataraxia</span>. Moral correctness is here identified to happiness.</p><p style="text-indent: 5em" id="index.xml-p-d29e300">Notice that, in this <span property="Philosophy">sense,</span> attaining happiness is nothing more than a matter of <span style="font-style: italic">attitude</span>. It doesn’t depend on any external conditions in the <span property="Language">world,</span> but only on the <span property="Psychological">good</span> will of the subject. More than that, this positive attitude towards <span property="Ethics">life</span> <span style="font-style: italic">is</span> already happiness. As we can read in the <span style="font-style: italic">Notebooks</span>, <span class="quote">“the will is an attitude of the subject to the world” (entry 4.11.16)</span>, and this is why the <span property="Language">world</span> of the happy <span property="Person">person</span> is different from the <span property="Language">world</span> of the unhappy: one has to want to be happy and one has to want to lead a correct life.</p><p style="text-indent: 5em" id="index.xml-p-d29e314">Taking this all into account, we can now talk about both how <span property="Ethics">Ethics</span> shows itself and how what is shown provides a criterion for action.</p><p style="text-indent: 5em" id="index.xml-p-d29e316">I think <span property="Ethics">Ethics</span> can be shown in various ways, through examples and <span property="Psychological">good</span> or <span property="Psychological">bad</span> actions of other people, through literature stories and characters, through the advices of someone of a solid and coherent character, but above all through the way of <span property="Ethics">life</span> we see the happy <span property="Person">person</span> living. At the same time, the happy <span property="Person">person</span> is the criterion and the guide for both the actions and the attitude one should have towards the <span property="Language">world</span> and life.</p><p style="text-indent: 5em" id="index.xml-p-d29e318">Surely, none of these things can be said or turned into a moral theory, and this “criterion” could never be a theoretical or <span property="Science">scientific</span> one, as Wittgenstein himself puts at the very end of the <span style="font-style: italic">Lecture</span>: <span class="quote">“Ethics so far as it springs from the desire to say something about the ultimate <span property="Philosophy">meaning</span> of <span property="Ethics">life,</span> the absolute <span property="Psychological">good,</span> the absolute <span property="Ethics">value,</span> can be no science.”</span> But the whole of what is shown is <span style="font-style: italic">necessary</span> as a condition to the very fact of <span property="Ethics">life,</span> and to what we conceive as morality (see the entry 21.7.16 in the <span style="font-style: italic">Notebooks</span>). Necessary as it is, all talk about <span property="Ethics">Ethics,</span> pretending to be true or pretending to be philosophical and giving us this very appearance of <span property="Philosophy">sense,</span> is <span style="font-style: italic">superfluous</span>. With this superfluity, not only are we breaking the logical rules of <span property="Language">language</span> as given by Wittgenstein, but we are still morally in fault: understanding why the silence over “ethical propositions” is required is also part of the correct way of seeing the <span property="Language">world.</span> (Surely, that we constantly try to run “against the boundaries of language” is due to that “tendency in the human mind” which Wittgenstein says at the end of the <span style="font-style: italic">Lecture</span> he deeply respects.)</p><p style="text-indent: 5em" id="index.xml-p-d29e339">Now, given the necessity of <span property="Ethics">Ethics,</span> there being values and criteria that show themselves, and given the demand of coherency and of right actions for the sake of the happy <span property="Ethics">life,</span> <span property="Ethics">value</span> judgments are not only allowed but actually required as a way of showing. This is how we should understand that passage of the <span style="font-style: italic">Lecture </span>where one is obliged to reply: “Well, you <span style="font-style: italic">ought</span> to want to behave better.”</p><p style="text-indent: 5em" id="index.xml-p-d29e347">This <span property="Language">expression</span> is <span style="font-style: italic">obligatory</span> as a correct reaction to a wrong behavior. This too marks the difference between relative and absolute value: there’s nothing wrong in answering “Ah then that’s all right” to a <span property="Psychological">bad</span> tennis player who says “I know I’m playing badly but I don’t want to play any better”; but things are different concerning <span property="Psychological">bad</span> <span style="font-style: italic">moral</span> actions: <span class="quote">“But suppose I had told one of you a preposterous lie and he came up to me and said ‘You’re behaving like a beast’ and then I were to say ‘I know I behave badly, but then I don’t want to behave any better,’ could he then say ‘Ah then that’s all right’? Certainly not; he would say ‘Well, you <span style="font-style: italic">ought</span> to want to behave better’” (Wittgenstein 1997, p.68.)</span> “Certainly not” is the crucial <span property="Language">expression</span> here. The silence concerning someone else’s <span property="Psychological">bad</span> behavior is a <span property="Psychological">bad</span> behavior too and would not be in accordance with a correct way of leading life; it would equally be a <span property="Psychological">bad</span> action implying its own punishment.</p><p style="text-indent: 5em" id="index.xml-p-d29e362">In this <span property="Philosophy">sense,</span> the silence Wittgenstein is demanding over <span property="Ethics">ethical expressions</span> pretending to be propositions of <span property="Language">language</span> should in no way lead to an immoral silence when it comes to others’ immoral actions. This seems to me to be still in complete accordance with the individual character of Wittgenstein’s <span property="Ethics">Ethics,</span> but shows us a step further in the way this <span property="Ethics">Ethics</span> can take others into account.</p></div><div class="Literature" id="index.xml-back.1_div.1"><h2><span class="head">Literature</span></h2><ol class="listBibl"><li id="index.xml-bibl-d29e369"><div class="biblfree">Moore, George Edward 1993 <span style="font-style: italic">Principia Ethica</span>, Cambridge, New York: Cambridge University Press.</div></li><li id="index.xml-bibl-d29e374"><div class="biblfree">Wittgenstein, Ludwig 2001 “Ficker-Wittgenstein”, in: <span style="font-style: italic">Tagebücher und Briefe</span>, Wittgenstein’s Nachlass: The Bergen Electronic Edition.</div></li><li id="index.xml-bibl-d29e379"><div class="biblfree">––– 1997 “Lecture on Ethics”, in: Stephen Darwall, Allan Gibbard and Peter Railton (eds.), <span style="font-style: italic">Moral Discourse &amp; Practice</span>, New York, Oxford: Oxford University Press, 65-70.</div></li><li id="index.xml-bibl-d29e384"><div class="biblfree">––– 1998 <span style="font-style: italic">Notebooks <span class="corr">[1914-1916]</span></span>, Oxford: Basil Blackwell.</div></li><li id="index.xml-bibl-d29e391"><div class="biblfree">––– 2006 <span style="font-style: italic">Tractatus Logico-Philosophicus</span>, London: Routledge.</div></li></ol></div><div class="stdfooter"><address>Janyne Sattler.
+	 Date: XML TEI markup by WAB (Rune J. Falch, Heinz W. Krüger, Alois Pichler, Deirdre C.P. Smith) 2011-13. Last change 18.12.2013.<br />
+This page is made available under the Creative Commons General Public License "Attribution, Non-Commercial, Share-Alike", version 3.0 (CCPL BY-NC-SA)
+<!--
+	 Generated from index.xml using XSLT stylesheets version 7.9.0
+
+	 based on http://www.tei-c.org/Stylesheets/
+	 on 2014-02-03T17:33:58Z.
+	 SAXON PE 9.3.0.4.
+		 --></address></div></body></html>
+	
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul class="plain">
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+
+
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+
+
+</div> <!-- container -->
+</body>
+</html>
+</span>

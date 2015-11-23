@@ -325,7 +325,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Deirdre_Christine_Page_Smith">
         <rdf:type rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-        <hasAuthor rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Smith_text"/>
+        <isAuthorOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Smith_text"/>
     </owl:NamedIndividual>
     
 
@@ -469,7 +469,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Janyne_Sattler">
         <rdf:type rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-        <hasAuthor rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Sattler_text"/>
+        <isAuthorOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Sattler_text"/>
     </owl:NamedIndividual>
     
 
@@ -559,7 +559,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Paul_Formosa">
         <rdf:type rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Author"/>
-        <hasAuthor rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Formosa_text"/>
+        <isAuthorOf rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Formosa_text"/>
     </owl:NamedIndividual>
     
 
@@ -765,7 +765,6 @@
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Ethics"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Expression"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Facts"/>
-        <inspired rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Formosa_text"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Good"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Hamlet"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#I_wonder"/>
@@ -781,7 +780,6 @@
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Relative_value"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Religion"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Religious"/>
-        <inspired rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Sattler_text"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Science"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Scientific"/>
         <mentions rdf:resource="http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#Sense"/>

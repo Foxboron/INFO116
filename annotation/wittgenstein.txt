@@ -1,4 +1,4 @@
-<span vocab="http://velox.pw/~fox/index.rdf"><!DOCTYPE html
+<span vocab="http://velox.pw/~fox/index.rdf" typeof="Source"><!DOCTYPE html
 PUBLIC "-//W3C/DTD XHTML 1.0 STRICT//EN" "http:://www.w3.org/TR/xhtml1-strict.dtd">
 <html>
 <head>
