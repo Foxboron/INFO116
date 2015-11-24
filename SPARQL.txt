@@ -1,293 +1,3 @@
-### Query 1
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
-
-SELECT ?subject ?object
-	WHERE { ?subject wit:mentions ?object }
-ORDER BY ?subject
-
-
-
-// FORMATER PENT EIRIK. NATTA<3;*
-
-
-
-Form osa_text Facts
-
-Form osa_text World
-
-Form osa_text Religious
-Form osa_text Meaning
-Form osa_text Science
-
-Form osa_text Metaphor
-Form osa_text Value
-
-Form osa_text Psychological
-Form osa_text Ethics
-
-Form osa_text Language
-Form osa_text Absolute_judgment
-Form osa_text Lecture
-
-Form osa_text Religion
-
-Form osa_text Philosophy
-Form osa_text Book
-
-Form osa_text Supernatural
-Form osa_text Bad
-
-Form osa_text Sense
-
-Form osa_text Life
-
-Form osa_text Logic
-
-Form osa_text Expression
-Form osa_text Person
-
-Form osa_text Judgement
-Form osa_text Ethical_proposition
-Form osa_text Words
-
-Form osa_text Definition
-
-Form osa_text Absolute_value
-Form osa_text Good
-Sattler_text Ethical_ex pressions
-Sattler_text Good
-Sattler_text World
-Sattler_text Religion
-Sattler_text Lecture
-Sattler_text Facts
-Sattler_text Meaning
-Sattler_text Book
-Sattler_text Person
-Sattler_text Definition
-Sattler_text Logic
-Sattler_text Scientific
-Sattler_text Language
-Sattler_text Ethics
-Sattler_text Right_or_w rong
-Sattler_text Value
-Sattler_text Bad
-Sattler_text Expression
-Sattler_text Philosophy
-Sattler_text Life
-Sattler_text Supernatural
-Sattl er text Sense
-
-SmItH_text WorEls
-Smith_text Good
-Smith_text Absolute_v alue
-Smith_text Value
-Smith_text Rel ative_v alue
-Smith_text Lecture
-Smith_text Meaning
-Smith_text World
-Smith_text Religious
-Smith_text Sci enoe
-Smith_text Facts
-Smith_text Ethics
-Smith_text Book
-Smith_text Metaphor
-Smith_text Definition
-Smith_text Philosophy
-Smith_text Expression
-Smith_text Life
-Smith_text Language
-Smith_text Bad
-Smith_text Sense
-Wittgen stein_text Metaphor
-Wittgen stein_text Emotion
-Wittgen stein_text Definition
-Wittgen stein_text Scientific
-Wittgen stein_text Ethics
-Wittgen stein_text Language
-Wittgen stein_text Value
-Wittgen stein_text Expression
-Wittgen stein_text Psychological
-Wittgen stein_text Absolute_value 
-Wittgen stein_text Good
-Wittgen stein_text Facts
-Wittgen stein_text Religious
-Wittgen stein_text Meaning
-Wittgen stein_text Soi enoe
-Wittgen stein_text Sense
-Wittgen stein_text I_wonder
-Wittgen stein_text Person
-Wittgen stein_text Logic
-Wittgen stein_text Book
-Wittgen stein_text Hamlet
-Wittgen stein_text Words
-Wittgen stein_text Bad
-
-Wittgen stein_text Life
-
-Wittgen stein_text Relative_value
-Wittgen stein_text World
-Wittgen stein_text Religion
-Wittgen stein_text Lecture
-Wittgen stein_text Supernatural
-
-
-
-
-
-### Query 2
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
-
-
-SELECT DISTINCT * WHERE {
-  ?subject wit:basedOff ?object
-  }
-
-
-
-Result:
-
-
-subject         object
-
-Formosa_text    Wittgenstein_text
-Sattler_text    Wittgenstein_text
-Smith_text      Wittgenstein_text
-
-
-
-### Query 3
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
-
-SELECT DISTINCT * WHERE {
-  ?subject wit:inspired ?object
-}
-
-
-
-Result:
-
-
-subject             object
-
-Wittgenstein_text   Formosa_text    
-Wittgenstein_text   Sattler_text    
-Wittgenstein_text   Smith_text      
-
-
-
-### Query 4
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
-
-SELECT ?text ?word
-WHERE {
-  ?word a wit:Ethics.
-  ?text wit:mentions ?word.
-}
-ORDER BY ?text
-
-
-Result:
-
-
-text                  word
-
-Formosa_text          Absolute_judgement
-Formosa_text          Ethical_proposition
-Formosa_text          Absolute_value
-Formosa_text          Ethics
-Formosa_text          Judgement
-Formosa_text          Value
-Formosa_text          Supernatural
-Formosa_text          Life
-Sattler_text          Ethical_expressions
-Sattler_text          Ethics
-Sattler_text          Right_or_wrong
-Sattler_text          Value
-Sattler_text          Supernatural
-Sattler_text          Life
-Smith_text            Relative_value
-Smith_text            Absolute_value
-Smith_text            Ethics
-Smith_text            Value
-Smith_text            Life
-Wittgenstein_text     Relative_value
-Wittgenstein_text     Emotion
-Wittgenstein_text     Absolute_value
-Wittgenstein_text     Ethics
-Wittgenstein_text     Value
-Wittgenstein_text     Supernatural
-
-
-
-### Query 5
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
-
-select ?s ?word where {
-   ?s wit:hasAuthor ?o .
- ?word rdfs:subClassOf wit:Subjects.
-} ORDER BY ?word
-
-
-Result:
-
-
-s                     word
-
-Wittgenstein_text     Diverse
-Formosa_text          Diverse
-Sattler_text          Diverse
-Smith_text            Diverse
-Wittgenstein_text     Ethics
-Formosa_text          Ethics
-Sattler_text          Ethics
-Smith_text            Ethics
-Wittgenstein_text     Examples
-Formosa_text          Examples
-Sattler_text          Examples
-Smith_text            Examples
-Wittgenstein_text     Language
-Formosa_text          Language
-Sattler_text          Language
-Smith_text            Language
-Wittgenstein_text     Person
-Formosa_text          Person
-Sattler_text          Person
-Smith_text            Person
-Wittgenstein_text     Philosophv
-Formosa_text          Philosophv
-Sattler_text          Philosophv
-Smith_text            Philosophv
-Wittgenstein_text     Psychological
-Formosa_text          Psychological
-Sattler_text          Psychological
-Smith_text            Psychological
-Wittgehsteih_text     Science
-Formosa_text          Science
-Sattler_text          Science
-Smith_text            Science
-
-
-
 +-----------------------------------------------------------------------------------------+
 |  ### Query 1                                                                            |
 +-----------------------------------------------------------------------------------------+
@@ -299,38 +9,39 @@ Smith_text            Science
 |                                                                                         |
 | SELECT ?subject ?object                                                                 |
 | WHERE { ?subject wit:mentions ?object }                                                 |
-| ORDER BY ?subject                                                                       |                                  |                                                                                         |
+| ORDER BY ?subject                                                                       |                               |                                                                                         |
 | Result:                                                                                 |
 |                                                                                         |
-| Form osa_text Facts                                                                     |
-| Form osa_text World                                                                     |
-| Form osa_text Religious                                                                 |
-| Form osa_text Meaning                                                                   |
-| Form osa_text Science                                                                   |
-| Form osa_text Metaphor                                                                  |
-| Form osa_text Value                                                                     |
-| Form osa_text Psychological                                                             |
-| Form osa_text Ethics                                                                    |
-| Form osa_text Language                                                                  |
-| Form osa_text Absolute_judgment                                                         |
-| Form osa_text Lecture                                                                   |
-| Form osa_text Religion                                                                  |
-| Form osa_text Philosophy                                                                |
-| Form osa_text Book                                                                      |
-| Form osa_text Supernatural                                                              |
-| Form osa_text Bad                                                                       |
-| Form osa_text Sense                                                                     |
-| Form osa_text Life                                                                      |
-| Form osa_text Logic                                                                     |
-| Form osa_text Expression                                                                |
-| Form osa_text Person                                                                    |
-| Form osa_text Judgement                                                                 |
-| Form osa_text Ethical_proposition                                                       |
-| Form osa_text Words                                                                     |
-| Form osa_text Definition                                                                |
-| Form osa_text Absolute_value                                                            |
-| Form osa_text Good                                                                      |
-| Sattler_text Ethical_ex pressions                                                       |
+| subject       object                                                                    |
+| Formosa_text Facts                                                                      |
+| Formosa_text World                                                                      |
+| Formosa_text Religious                                                                  |
+| Formosa_text Meaning                                                                    |
+| Formosa_text Science                                                                    |
+| Formosa_text Metaphor                                                                   |
+| Formosa_text Value                                                                      |
+| Formosa_text Psychological                                                              |
+| Formosa_text Ethics                                                                     |
+| Formosa_text Language                                                                   |
+| Formosa_text Absolute_judgment                                                          |
+| Formosa_text Lecture                                                                    |
+| Formosa_text Religion                                                                   |
+| Formosa_text Philosophy                                                                 |
+| Formosa_text Book                                                                       |
+| Formosa_text Supernatural                                                               |
+| Formosa_text Bad                                                                        |
+| Formosa_text Sense                                                                      |
+| Formosa_text Life                                                                       |
+| Formosa_text Logic                                                                      |
+| Formosa_text Expression                                                                 |
+| Formosa_text Person                                                                     |
+| Formosa_text Judgement                                                                  |
+| Formosa_text Ethical_proposition                                                        |
+| Formosa_text Words                                                                      |
+| Formosa_text Definition                                                                 |
+| Formosa_text Absolute_value                                                             |
+| Formosa_text Good                                                                       |
+| Sattler_text Ethical_expressions                                                        |
 | Sattler_text Good                                                                       |
 | Sattler_text World                                                                      |
 | Sattler_text Religion                                                                   |
@@ -344,24 +55,24 @@ Smith_text            Science
 | Sattler_text Scientific                                                                 |
 | Sattler_text Language                                                                   |
 | Sattler_text Ethics                                                                     |
-| Sattler_text Right_or_w rong                                                            |
+| Sattler_text Right_or_wrong                                                             |
 | Sattler_text Value                                                                      |
 | Sattler_text Bad                                                                        |
 | Sattler_text Expression                                                                 |
 | Sattler_text Philosophy                                                                 |
 | Sattler_text Life                                                                       |
 | Sattler_text Supernatural                                                               |
-| Sattl er text Sense                                                                     |
-| SmItH_text WorEls                                                                       |
+| Sattler text Sense                                                                      |
+| Smith_text Words                                                                        |
 | Smith_text Good                                                                         |
-| Smith_text Absolute_v alue                                                              |
+| Smith_text Absolute_value                                                               |
 | Smith_text Value                                                                        |
-| Smith_text Rel ative_v alue                                                             |
+| Smith_text Relative_value                                                               |
 | Smith_text Lecture                                                                      |
 | Smith_text Meaning                                                                      |
 | Smith_text World                                                                        |
 | Smith_text Religious                                                                    |
-| Smith_text Sci enoe                                                                     |
+| Smith_text Science                                                                      |
 | Smith_text Facts                                                                        |
 | Smith_text Ethics                                                                       |
 | Smith_text Book                                                                         |
@@ -373,35 +84,35 @@ Smith_text            Science
 | Smith_text Language                                                                     |
 | Smith_text Bad                                                                          |
 | Smith_text Sense                                                                        |
-| Wittgen stein_text Metaphor                                                             |
-| Wittgen stein_text Emotion                                                              |
-| Wittgen stein_text Definition                                                           |
-| Wittgen stein_text Scientific                                                           |
-| Wittgen stein_text Ethics                                                               |
-| Wittgen stein_text Language                                                             |
-| Wittgen stein_text Value                                                                |
-| Wittgen stein_text Expression                                                           |
-| Wittgen stein_text Psychological                                                        |
-| Wittgen stein_text Absolute_value                                                       |
-| Wittgen stein_text Good                                                                 |
-| Wittgen stein_text Facts                                                                |
-| Wittgen stein_text Religious                                                            |
-| Wittgen stein_text Meaning                                                              |
-| Wittgen stein_text Soi enoe                                                             |
-| Wittgen stein_text Sense                                                                |
-| Wittgen stein_text I_wonder                                                             |
-| Wittgen stein_text Person                                                               |
-| Wittgen stein_text Logic                                                                |
-| Wittgen stein_text Book                                                                 |
-| Wittgen stein_text Hamlet                                                               |
-| Wittgen stein_text Words                                                                |
-| Wittgen stein_text Bad                                                                  |
-| Wittgen stein_text Life                                                                 |
-| Wittgen stein_text Relative_value                                                       |
-| Wittgen stein_text World                                                                |
-| Wittgen stein_text Religion                                                             |
-| Wittgen stein_text Lecture                                                              |
-| Wittgen stein_text Supernatural                                                         |
+| Wittgenstein_text Metaphor                                                              |
+| Wittgenstein_text Emotion                                                               |
+| Wittgenstein_text Definition                                                            |
+| Wittgenstein_text Scientific                                                            |
+| Wittgenstein_text Ethics                                                                |
+| Wittgenstein_text Language                                                              |
+| Wittgenstein_text Value                                                                 |
+| Wittgenstein_text Expression                                                            |
+| Wittgenstein_text Psychological                                                         |
+| Wittgenstein_text Absolute_value                                                        |
+| Wittgenstein_text Good                                                                  |
+| Wittgenstein_text Facts                                                                 |
+| Wittgenstein_text Religious                                                             |
+| Wittgenstein_text Meaning                                                               |
+| Wittgenstein_text Science                                                               |
+| Wittgenstein_text Sense                                                                 |
+| Wittgenstein_text I_wonder                                                              |
+| Wittgenstein_text Person                                                                |
+| Wittgenstein_text Logic                                                                 |
+| Wittgenstein_text Book                                                                  |
+| Wittgenstein_text Hamlet                                                                |
+| Wittgenstein_text Words                                                                 |
+| Wittgenstein_text Bad                                                                   |
+| Wittgenstein_text Life                                                                  |
+| Wittgenstein_text Relative_value                                                        |
+| Wittgenstein_text World                                                                 |
+| Wittgenstein_text Religion                                                              |
+| Wittgenstein_text Lecture                                                               |
+| Wittgenstein_text Supernatural                                                          |
 |                                                                                         |
 +-----------------------------------------------------------------------------------------+
 | ### Query 2                                                                             |
