@@ -1824,6 +1824,601 @@
         <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
     </owl:NamedIndividual>
     
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Definition"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Book"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Religious"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Religious"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Relative_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Science"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Words"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Bad"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Words"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
+        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
+        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
+    </owl:NamedIndividual>
+    
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sattler_text">
         <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
         <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
@@ -2537,601 +3132,6 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sattler_text">
         <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
         <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Ethics"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Definition"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Book"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Religious"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Life"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Metaphor"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Sense"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Religious"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Relative_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Science"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Philosophy"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Expression"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Words"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Meaning"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Good"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Bad"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Language"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Facts"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#World"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Words"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Lecture"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Value"/>
-    </owl:NamedIndividual>
-    
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Smith_text">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Secondary"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Absolute_value"/>
     </owl:NamedIndividual>
     
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#Wittgenstein_text">

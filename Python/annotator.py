@@ -4,9 +4,6 @@ from rdflib import URIRef
 
 import re
 
-
-#TODO: convert to actual tests
-
 ont = Ontology()
 ont.load(source="../final.rdf")
 
@@ -61,9 +58,6 @@ def get_ontology():
         dd[key]=value
     return dd
 
-#<span property="addressRegion">PA</span>
-
-
 
 def format_string(*string):
     string = [i for i in string if i]
@@ -88,6 +82,8 @@ ont = get_ontology()
 def process_text(text, name=None):
     ready_text = [i.split(" ") for i in text.split("\n")]
 
+    # Only get confirmed words into an array
+    # filname -> list(words)
     global mentions
     mentions[name] = []
 
@@ -124,6 +120,9 @@ def process_text(text, name=None):
                         if word:
                             ready_text[n][nn] = word
                             mentions[name].append(w_check)
+    print()
+    for i in ready_text:
+        print(i)
     return "\n".join(" ".join([ii for ii in i if ii]) for i in ready_text)
 
 def main():
@@ -140,28 +139,22 @@ def main():
         f.write("</span>")
         f.close()
 
-main()
 
-{
-    "@context": {
-        "uib": "http://example.org/index.rdf#",
-        "owl": "http://www.w3.org/2002/07/owl#"
-    },
-    "@type": [
-        "http://www.w3.org/2002/07/owl#NamedIndividual",
-        "uib:Source"
-    ],
-    "wit:hasAuthor": {
-    "@id": ""
-    },
-    "wit:Secondary": {
-    "@id": ""
-    },
-    "wit:mentions": [
-    {
-    }
-]
-}
+
+def test():
+    s = """
+    value Value
+    absolute value
+    <asdfsas>value something
+    heyho Value Absolute
+    right or wrong
+    """
+    print(s)
+    print(process_text(s))
+
+
+#test()
+main()
 
 def format_owl(string,name):
     m = {"deirdre.html": ("Smith_text", "Secondary"),
@@ -169,9 +162,9 @@ def format_owl(string,name):
          "wittgenstein.html": ("Wittgenstein_text", "Primary"),
          "janyne.html": ("Sattler_text", "Secondary")}
     s = """
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{0}">
-        <rdf:type rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{1}"/>
-        <mentions rdf:resource="http://www.semanticweb.org/something/ontologies/2015/10/untitled-ontology-9#{2}"/>
+    <owl:NamedIndividual rdf:about="http://example.org/index.rdf#{0}">
+        <rdf:type rdf:resource="http://example.org/index.rdf#{1}"/>
+        <mentions rdf:resource="http://example.org/index.rdf#{2}"/>
     </owl:NamedIndividual>
     """
     return s.format(m[name][0], m[name][1], string)
@@ -179,8 +172,6 @@ def format_owl(string,name):
 
 def format_json_ld(string,name):
     return "{\"@id\": \"wit:\""+string+"\"},\n"
-
-
 
 
 with open("additions", "w") as f:
