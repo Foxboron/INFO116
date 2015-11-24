@@ -11,6 +11,131 @@ ORDER BY ?subject
 
 
 
+// FORMATER PENT EIRIK. NATTA<3;*
+
+
+
+Form osa_text Facts
+
+Form osa_text World
+
+Form osa_text Religious
+Form osa_text Meaning
+Form osa_text Science
+
+Form osa_text Metaphor
+Form osa_text Value
+
+Form osa_text Psychological
+Form osa_text Ethics
+
+Form osa_text Language
+Form osa_text Absolute_judgment
+Form osa_text Lecture
+
+Form osa_text Religion
+
+Form osa_text Philosophy
+Form osa_text Book
+
+Form osa_text Supernatural
+Form osa_text Bad
+
+Form osa_text Sense
+
+Form osa_text Life
+
+Form osa_text Logic
+
+Form osa_text Expression
+Form osa_text Person
+
+Form osa_text Judgement
+Form osa_text Ethical_proposition
+Form osa_text Words
+
+Form osa_text Definition
+
+Form osa_text Absolute_value
+Form osa_text Good
+Sattler_text Ethical_ex pressions
+Sattler_text Good
+Sattler_text World
+Sattler_text Religion
+Sattler_text Lecture
+Sattler_text Facts
+Sattler_text Meaning
+Sattler_text Book
+Sattler_text Person
+Sattler_text Definition
+Sattler_text Logic
+Sattler_text Scientific
+Sattler_text Language
+Sattler_text Ethics
+Sattler_text Right_or_w rong
+Sattler_text Value
+Sattler_text Bad
+Sattler_text Expression
+Sattler_text Philosophy
+Sattler_text Life
+Sattler_text Supernatural
+Sattl er text Sense
+
+SmItH_text WorEls
+Smith_text Good
+Smith_text Absolute_v alue
+Smith_text Value
+Smith_text Rel ative_v alue
+Smith_text Lecture
+Smith_text Meaning
+Smith_text World
+Smith_text Religious
+Smith_text Sci enoe
+Smith_text Facts
+Smith_text Ethics
+Smith_text Book
+Smith_text Metaphor
+Smith_text Definition
+Smith_text Philosophy
+Smith_text Expression
+Smith_text Life
+Smith_text Language
+Smith_text Bad
+Smith_text Sense
+Wittgen stein_text Metaphor
+Wittgen stein_text Emotion
+Wittgen stein_text Definition
+Wittgen stein_text Scientific
+Wittgen stein_text Ethics
+Wittgen stein_text Language
+Wittgen stein_text Value
+Wittgen stein_text Expression
+Wittgen stein_text Psychological
+Wittgen stein_text Absolute_value 
+Wittgen stein_text Good
+Wittgen stein_text Facts
+Wittgen stein_text Religious
+Wittgen stein_text Meaning
+Wittgen stein_text Soi enoe
+Wittgen stein_text Sense
+Wittgen stein_text I_wonder
+Wittgen stein_text Person
+Wittgen stein_text Logic
+Wittgen stein_text Book
+Wittgen stein_text Hamlet
+Wittgen stein_text Words
+Wittgen stein_text Bad
+
+Wittgen stein_text Life
+
+Wittgen stein_text Relative_value
+Wittgen stein_text World
+Wittgen stein_text Religion
+Wittgen stein_text Lecture
+Wittgen stein_text Supernatural
+
+
+
 
 
 ### Query 2
