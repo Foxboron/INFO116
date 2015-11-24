@@ -1,10 +1,42 @@
 <script type="application/ld+json">
 {
-  "@context": "http://example.org/index.rdf",
-  "@type": "INFO116",
-  "author": "Deidre_Christine_Page_Smith",
-  "title": "Ethics, Language and the Development of Wittgenstein’s Thought in Ms 139a",
-  "Publish_Date": "2007"
+  "@context": {
+      "uib": "http://example.org/index.rdf#",
+      "owl": "http://www.w3.org/2002/07/owl#"
+  },
+  "@type": [
+      "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "wit:Source"
+  ],
+  "wit:hasAuthor": {
+    "@id": "Deirdre_Christine_Page_Smith"
+  },
+  "wit:Secondary": {
+    "@id": "Smith_text"
+  },
+  "wit:mentions": [
+		{"@id": "wit:Relative_value"},
+		{"@id": "wit:Life"},
+		{"@id": "wit:Lecture"},
+		{"@id": "wit:Book"},
+		{"@id": "wit:Value"},
+		{"@id": "wit:Bad"},
+		{"@id": "wit:Philosophy"},
+		{"@id": "wit:Facts"},
+		{"@id": "wit:Definition"},
+		{"@id": "wit:Language"},
+		{"@id": "wit:Sense"},
+		{"@id": "wit:Meaning"},
+		{"@id": "wit:Religious"},
+		{"@id": "wit:Absolute_value"},
+		{"@id": "wit:Expression"},
+		{"@id": "wit:Good"},
+		{"@id": "wit:World"},
+		{"@id": "wit:Science"},
+		{"@id": "wit:Words"},
+		{"@id": "wit:Metaphor"},
+		{"@id": "wit:Ethics"}
+  ]
 }
 </script>
 

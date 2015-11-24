@@ -140,12 +140,28 @@ def main():
         f.write("</span>")
         f.close()
 
-def test():
-    r = process_text("<test>Ethics")
-    print(r)
-
 main()
 
+{
+    "@context": {
+        "uib": "http://example.org/index.rdf#",
+        "owl": "http://www.w3.org/2002/07/owl#"
+    },
+    "@type": [
+        "http://www.w3.org/2002/07/owl#NamedIndividual",
+        "uib:Source"
+    ],
+    "wit:hasAuthor": {
+    "@id": ""
+    },
+    "wit:Secondary": {
+    "@id": ""
+    },
+    "wit:mentions": [
+    {
+    }
+]
+}
 
 def format_owl(string,name):
     m = {"deirdre.html": ("Smith_text", "Secondary"),
@@ -160,12 +176,24 @@ def format_owl(string,name):
     """
     return s.format(m[name][0], m[name][1], string)
 
+
+def format_json_ld(string,name):
+    return "{\"@id\": \"wit:\""+string+"\"},\n"
+
+
+
+
 with open("additions", "w") as f:
     for k,v in mentions.items():
         for i in v:
             f.write(format_owl(i,k))
 
 
+with open("json_ld", "w") as f:
+    for k,v in mentions.items():
+        f.write("\n\n"+k+"\n")
+        for i in set(v):
+            f.write(format_json_ld(i,k))
 
 
 

@@ -1,10 +1,49 @@
 <script type="application/ld+json">
 {
-  "@context": "http://example.org/index.rdf",
-  "@type": "INFO116",
-  "author": "Paul_Formoso",
-  "title": "Saying the Unsayable: Wittgenstein's Early Ethical Thought",
-  "Publish_Date": "19_December_2007"
+  "@context": {
+      "uib": "http://example.org/index.rdf#",
+      "owl": "http://www.w3.org/2002/07/owl#"
+  },
+  "@type": [
+      "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "wit:Source"
+  ],
+  "wit:hasAuthor": {
+    "@id": "Paul_Formosa"
+  },
+  "wit:Secondary": {
+    "@id": "Formosa_text"
+  },
+  "wit:mentions": [
+    {"@id": "wit:Bad"},
+    {"@id": "wit:Psychological"},
+    {"@id": "wit:Lecture"},
+    {"@id": "wit:Sense"},
+    {"@id": "wit:Science"},
+    {"@id": "wit:Metaphor"},
+    {"@id": "wit:Judgement"},
+    {"@id": "wit:Facts"},
+    {"@id": "wit:Person"},
+    {"@id": "wit:Religious"},
+    {"@id": "wit:Expression"},
+    {"@id": "wit:Religion"},
+    {"@id": "wit:World"},
+    {"@id": "wit:Ethics"},
+    {"@id": "wit:Value"},
+    {"@id": "wit:Philosophy"},
+    {"@id": "wit:Words"},
+    {"@id": "wit:Absolute_value"},
+    {"@id": "wit:Supernatural"},
+    {"@id": "wit:Absolute_judgement"},
+    {"@id": "wit:Logic"},
+    {"@id": "wit:Life"},
+    {"@id": "wit:Book"},
+    {"@id": "wit:Definition"},
+    {"@id": "wit:Language"},
+    {"@id": "wit:Meaning"},
+    {"@id": "wit:Good"},
+    {"@id": "wit:Ethical_proposition"}
+  ]
 }
 </script>
 

@@ -1,10 +1,43 @@
 <script type="application/ld+json">
 {
-  "@context": "http://example.org/index.rdf",
-  "@type": "INFO116",
-  "author": "Janye_Sattler",
-  "title": "Moral Judgments as Part of What Ethics Must Show",
-  "Publish_Date": "2007"
+  "@context": {
+      "uib": "http://example.org/index.rdf#",
+      "owl": "http://www.w3.org/2002/07/owl#"
+  },
+  "@type": [
+      "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "wit:Source"
+  ],
+  "wit:hasAuthor": {
+    "@id": "Janyne_Sattler"
+  },
+  "wit:Secondary": {
+    "@id": "Sattler_text"
+  },
+  "wit:mentions": [
+		{"@id": "wit:Lecture"},
+		{"@id": "wit:Bad"},
+		{"@id": "wit:Sense"},
+		{"@id": "wit:Right_or_wrong"},
+		{"@id": "wit:Facts"},
+		{"@id": "wit:Person"},
+		{"@id": "wit:Scientific"},
+		{"@id": "wit:Expression"},
+		{"@id": "wit:Religion"},
+		{"@id": "wit:World"},
+		{"@id": "wit:Ethics"},
+		{"@id": "wit:Value"},
+		{"@id": "wit:Philosophy"},
+		{"@id": "wit:Supernatural"},
+		{"@id": "wit:Logic"},
+		{"@id": "wit:Ethical_expressions"},
+		{"@id": "wit:Life"},
+		{"@id": "wit:Book"},
+		{"@id": "wit:Definition"},
+		{"@id": "wit:Language"},
+		{"@id": "wit:Meaning"},
+		{"@id": "wit:Good"}
+  ]
 }
 </script>
 
