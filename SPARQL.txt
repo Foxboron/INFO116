@@ -1,0 +1,162 @@
+### Query 1
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
+
+SELECT ?subject ?object
+	WHERE { ?subject wit:mentions ?object }
+ORDER BY ?subject
+
+
+
+
+
+### Query 2
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
+
+
+SELECT DISTINCT * WHERE {
+  ?subject wit:basedOff ?object
+  }
+
+
+
+Result:
+
+
+subject         object
+
+Formosa_text    Wittgenstein_text
+Sattler_text    Wittgenstein_text
+Smith_text      Wittgenstein_text
+
+
+
+### Query 3
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
+
+SELECT DISTINCT * WHERE {
+  ?subject wit:inspired ?object
+}
+
+
+
+Result:
+
+
+subject             object
+
+Wittgenstein_text   Formosa_text    
+Wittgenstein_text   Sattler_text    
+Wittgenstein_text   Smith_text      
+
+
+
+### Query 4
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
+
+SELECT ?text ?word
+WHERE {
+  ?word a wit:Ethics.
+  ?text wit:mentions ?word.
+}
+ORDER BY ?text
+
+
+Result:
+
+
+text                  word
+
+Formosa_text          Absolute_judgement
+Formosa_text          Ethical_proposition
+Formosa_text          Absolute_value
+Formosa_text          Ethics
+Formosa_text          Judgement
+Formosa_text          Value
+Formosa_text          Supernatural
+Formosa_text          Life
+Sattler_text          Ethical_expressions
+Sattler_text          Ethics
+Sattler_text          Right_or_wrong
+Sattler_text          Value
+Sattler_text          Supernatural
+Sattler_text          Life
+Smith_text            Relative_value
+Smith_text            Absolute_value
+Smith_text            Ethics
+Smith_text            Value
+Smith_text            Life
+Wittgenstein_text     Relative_value
+Wittgenstein_text     Emotion
+Wittgenstein_text     Absolute_value
+Wittgenstein_text     Ethics
+Wittgenstein_text     Value
+Wittgenstein_text     Supernatural
+
+
+
+### Query 5
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wit: <http://www.semanticweb.org/esj002/ontologies/2015/10/untitled-ontology-9#>
+
+select ?s ?word where {
+   ?s wit:hasAuthor ?o .
+ ?word rdfs:subClassOf wit:Subjects.
+} ORDER BY ?word
+
+
+Result:
+
+
+s                     word
+
+Wittgenstein_text     Diverse
+Formosa_text          Diverse
+Sattler_text          Diverse
+Smith_text            Diverse
+Wittgenstein_text     Ethics
+Formosa_text          Ethics
+Sattler_text          Ethics
+Smith_text            Ethics
+Wittgenstein_text     Examples
+Formosa_text          Examples
+Sattler_text          Examples
+Smith_text            Examples
+Wittgenstein_text     Language
+Formosa_text          Language
+Sattler_text          Language
+Smith_text            Language
+Wittgenstein_text     Person
+Formosa_text          Person
+Sattler_text          Person
+Smith_text            Person
+Wittgenstein_text     Philosophv
+Formosa_text          Philosophv
+Sattler_text          Philosophv
+Smith_text            Philosophv
+Wittgenstein_text     Psychological
+Formosa_text          Psychological
+Sattler_text          Psychological
+Smith_text            Psychological
+Wittgehsteih_text     Science
+Formosa_text          Science
+Sattler_text          Science
+Smith_text            Science

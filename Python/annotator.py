@@ -5,7 +5,7 @@ from rdflib import URIRef
 import re
 
 ont = Ontology()
-ont.load(source="../final.rdf")
+ont.load(source="final.rdf")
 
 
 mentions = {}
@@ -17,7 +17,7 @@ def get_name(url):
 
 def create_namespace():
   l = {}
-  f = open("../final.rdf").read()
+  f = open("final.rdf").read()
   n = re.findall("<[^/\!\?].* ", f)
   for i in n:
     s = i[1:].strip()
